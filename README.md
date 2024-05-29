@@ -1,2 +1,2 @@
-# wuss-2024-python-how
-Materials from a 2024 Western Users of SAS Software (WUSS) 90-minute Hands-on Workshop
+# [Under construction]
+This repo will contain materials for a future Hands-on Workshop to be presented at the 2024 Western Users of SAS Software (WUSS) conference.
