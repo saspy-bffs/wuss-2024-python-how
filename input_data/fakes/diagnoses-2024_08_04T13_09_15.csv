@@ -1,0 +1,1786 @@
+study_id,dx_date,dx_code,dx_name
+S-0004,2014-07-11,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0004,2016-12-10,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0014,2012-05-19,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0017,2014-03-19,I97.130,Postprocedural heart failure following cardiac surgery
+S-0017,2018-08-30,I50.3,Diastolic (congestive) heart failure
+S-0027,2013-03-12,I50.0,Congestive heart failure
+S-0027,2016-07-23,I50.22,Chronic systolic (congestive) heart failure
+S-0028,2012-02-12,I50.0,Congestive heart failure
+S-0032,2013-04-22,I50.3,Diastolic (congestive) heart failure
+S-0035,2012-04-09,I50.3,Diastolic (congestive) heart failure
+S-0035,2013-11-05,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0039,2013-01-31,I50.22,Chronic systolic (congestive) heart failure
+S-0057,2014-03-01,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0059,2019-04-15,I50.3,Diastolic (congestive) heart failure
+S-0061,2016-08-30,I50.0,Congestive heart failure
+S-0065,2019-10-19,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0066,2018-12-10,I50.31,Acute diastolic (congestive) heart failure
+S-0066,2019-06-13,I97.131,Postprocedural heart failure following other surgery
+S-0080,2015-01-30,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0080,2019-11-18,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0080,2019-12-11,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0085,2012-11-19,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0085,2015-06-17,I50.0,Congestive heart failure
+S-0088,2012-08-06,I50.31,Acute diastolic (congestive) heart failure
+S-0097,2019-09-21,I97.130,Postprocedural heart failure following cardiac surgery
+S-0097,2019-11-05,I50.30,Unspecified diastolic (congestive) heart failure
+S-0110,2015-05-19,I50.31,Acute diastolic (congestive) heart failure
+S-0110,2015-11-25,I50.9,"Heart failure, unspecified"
+S-0110,2019-12-01,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0110,2019-12-08,I50.9,"Heart failure, unspecified"
+S-0110,2019-12-11,I50.2,Systolic (congestive) heart failure
+S-0110,2019-12-22,I97.131,Postprocedural heart failure following other surgery
+S-0116,2014-07-30,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0116,2019-08-05,I97.13,Postprocedural heart failure
+S-0116,2019-11-18,I50.22,Chronic systolic (congestive) heart failure
+S-0116,2019-12-07,I50.2,Systolic (congestive) heart failure
+S-0117,2017-08-16,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0121,2013-02-03,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0137,2011-01-30,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0137,2014-03-29,I50.0,Congestive heart failure
+S-0141,2015-12-26,I97.131,Postprocedural heart failure following other surgery
+S-0141,2019-03-25,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0141,2019-07-27,I50.20,Unspecified systolic (congestive) heart failure
+S-0141,2019-11-28,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0143,2011-08-23,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0153,2015-12-28,I50.32,Chronic diastolic (congestive) heart failure
+S-0154,2013-02-05,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0154,2019-08-23,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0157,2016-06-19,I50.21,Acute systolic (congestive) heart failure
+S-0157,2019-12-26,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0160,2013-10-30,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0161,2015-04-02,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0163,2013-03-26,I50.3,Diastolic (congestive) heart failure
+S-0163,2015-08-30,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0165,2014-01-21,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0166,2012-12-09,I50.1,Left ventricular failure
+S-0170,2012-05-12,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0173,2019-08-09,I50.0,Congestive heart failure
+S-0173,2019-12-01,I50.20,Unspecified systolic (congestive) heart failure
+S-0173,2019-12-24,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0176,2012-02-10,I50.32,Chronic diastolic (congestive) heart failure
+S-0179,2013-02-24,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0188,2010-10-30,I50.30,Unspecified diastolic (congestive) heart failure
+S-0195,2012-09-05,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0202,2010-09-05,I97.13,Postprocedural heart failure
+S-0204,2017-07-15,I50.30,Unspecified diastolic (congestive) heart failure
+S-0204,2018-09-02,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0205,2017-09-16,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0205,2019-03-04,I97.13,Postprocedural heart failure
+S-0212,2014-12-04,I97.131,Postprocedural heart failure following other surgery
+S-0213,2014-04-01,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0215,2013-01-21,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0215,2016-11-09,I50.31,Acute diastolic (congestive) heart failure
+S-0215,2017-02-11,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0215,2019-11-14,I50.3,Diastolic (congestive) heart failure
+S-0225,2017-04-24,I50.20,Unspecified systolic (congestive) heart failure
+S-0226,2015-02-27,I50.31,Acute diastolic (congestive) heart failure
+S-0227,2018-02-19,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0227,2018-07-26,I50.31,Acute diastolic (congestive) heart failure
+S-0227,2019-04-26,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0227,2019-07-12,I50.3,Diastolic (congestive) heart failure
+S-0228,2011-02-13,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0228,2015-07-07,I50.2,Systolic (congestive) heart failure
+S-0228,2018-04-08,I50.30,Unspecified diastolic (congestive) heart failure
+S-0229,2015-06-27,I97.13,Postprocedural heart failure
+S-0230,2012-12-07,I50.30,Unspecified diastolic (congestive) heart failure
+S-0230,2014-06-02,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0232,2018-01-28,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0232,2019-11-26,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0232,2019-12-10,I50.9,"Heart failure, unspecified"
+S-0232,2019-12-18,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0233,2017-07-03,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0234,2010-12-02,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0236,2012-07-30,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0246,2014-08-20,I50.21,Acute systolic (congestive) heart failure
+S-0246,2015-03-07,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0246,2017-08-25,I50.20,Unspecified systolic (congestive) heart failure
+S-0246,2018-02-17,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0247,2016-07-14,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0261,2015-05-02,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0261,2015-07-01,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0261,2015-09-19,I50.22,Chronic systolic (congestive) heart failure
+S-0261,2019-07-05,I50.0,Congestive heart failure
+S-0262,2010-06-26,I50.3,Diastolic (congestive) heart failure
+S-0262,2017-11-18,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0262,2019-07-22,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0262,2019-10-05,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0263,2013-12-26,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0263,2018-12-31,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0263,2019-09-26,I50.20,Unspecified systolic (congestive) heart failure
+S-0263,2019-11-28,I50.31,Acute diastolic (congestive) heart failure
+S-0264,2018-12-27,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0264,2019-11-16,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0266,2018-05-27,I50.2,Systolic (congestive) heart failure
+S-0269,2014-11-01,I97.13,Postprocedural heart failure
+S-0269,2016-06-02,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0269,2019-09-09,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0292,2019-05-16,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0292,2019-12-18,I50.9,"Heart failure, unspecified"
+S-0300,2010-01-10,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0302,2013-09-18,I97.13,Postprocedural heart failure
+S-0302,2014-10-11,I50.31,Acute diastolic (congestive) heart failure
+S-0311,2019-04-08,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0313,2013-05-25,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0313,2019-09-04,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0313,2019-11-19,I97.131,Postprocedural heart failure following other surgery
+S-0313,2019-12-05,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0313,2019-12-08,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0313,2019-12-16,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0313,2019-12-25,I50.20,Unspecified systolic (congestive) heart failure
+S-0338,2017-11-13,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0338,2018-10-07,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0343,2011-10-09,I97.131,Postprocedural heart failure following other surgery
+S-0345,2019-01-26,I50.0,Congestive heart failure
+S-0345,2019-10-05,I97.131,Postprocedural heart failure following other surgery
+S-0345,2019-11-13,I50.1,Left ventricular failure
+S-0346,2012-07-08,I50.31,Acute diastolic (congestive) heart failure
+S-0346,2016-07-04,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0351,2013-01-22,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0351,2015-12-25,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0356,2013-05-05,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0357,2014-12-03,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0357,2018-10-18,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0357,2019-12-24,I50.22,Chronic systolic (congestive) heart failure
+S-0372,2012-09-19,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0372,2013-05-15,I50.22,Chronic systolic (congestive) heart failure
+S-0372,2014-05-29,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0374,2017-05-15,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0375,2013-09-21,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0377,2019-03-29,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0377,2019-07-25,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0379,2016-04-06,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0379,2019-10-06,I50.20,Unspecified systolic (congestive) heart failure
+S-0379,2019-10-11,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0386,2012-01-27,I50.1,Left ventricular failure
+S-0398,2010-01-01,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0399,2011-06-01,I50.2,Systolic (congestive) heart failure
+S-0400,2016-08-05,I50.1,Left ventricular failure
+S-0400,2017-01-04,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0400,2019-12-18,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0409,2017-04-22,I50.22,Chronic systolic (congestive) heart failure
+S-0411,2019-02-26,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0413,2018-07-09,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0413,2018-12-12,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0413,2019-02-24,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0413,2019-08-04,I50.2,Systolic (congestive) heart failure
+S-0417,2018-08-08,I50.3,Diastolic (congestive) heart failure
+S-0417,2018-10-04,I50.0,Congestive heart failure
+S-0418,2015-04-30,I50.2,Systolic (congestive) heart failure
+S-0418,2016-02-23,I50.0,Congestive heart failure
+S-0418,2016-06-12,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0428,2017-10-12,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0433,2015-06-08,I50.22,Chronic systolic (congestive) heart failure
+S-0433,2018-09-11,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0433,2018-11-20,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0433,2019-05-12,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0436,2010-10-30,I97.13,Postprocedural heart failure
+S-0441,2019-07-11,I97.130,Postprocedural heart failure following cardiac surgery
+S-0441,2019-09-09,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0441,2019-10-22,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0441,2019-12-02,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0441,2019-12-27,I50.31,Acute diastolic (congestive) heart failure
+S-0446,2019-08-03,I50.1,Left ventricular failure
+S-0449,2016-03-17,I97.13,Postprocedural heart failure
+S-0449,2017-04-25,I97.13,Postprocedural heart failure
+S-0451,2010-12-25,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0451,2017-02-11,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0451,2017-03-03,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0451,2018-01-16,I50.2,Systolic (congestive) heart failure
+S-0451,2019-11-24,I50.21,Acute systolic (congestive) heart failure
+S-0451,2019-12-05,I50.30,Unspecified diastolic (congestive) heart failure
+S-0451,2019-12-08,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0451,2019-12-30,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0457,2014-01-01,I50.1,Left ventricular failure
+S-0457,2016-05-28,I50.20,Unspecified systolic (congestive) heart failure
+S-0457,2018-11-23,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0457,2019-02-10,I50.31,Acute diastolic (congestive) heart failure
+S-0466,2016-01-05,I50.2,Systolic (congestive) heart failure
+S-0471,2015-03-22,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0471,2016-06-29,I50.9,"Heart failure, unspecified"
+S-0471,2019-10-21,I50.20,Unspecified systolic (congestive) heart failure
+S-0471,2019-12-13,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0480,2013-05-14,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0480,2014-07-22,I50.9,"Heart failure, unspecified"
+S-0483,2014-09-08,I50.32,Chronic diastolic (congestive) heart failure
+S-0486,2010-08-25,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0486,2015-03-22,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0486,2017-02-22,I50.2,Systolic (congestive) heart failure
+S-0487,2012-06-01,I50.2,Systolic (congestive) heart failure
+S-0490,2017-05-30,I50.20,Unspecified systolic (congestive) heart failure
+S-0500,2019-05-27,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0502,2010-04-20,I97.131,Postprocedural heart failure following other surgery
+S-0504,2010-12-15,I50.20,Unspecified systolic (congestive) heart failure
+S-0506,2014-01-13,I97.130,Postprocedural heart failure following cardiac surgery
+S-0506,2019-12-04,I50.1,Left ventricular failure
+S-0508,2017-12-06,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0508,2018-05-14,I50.0,Congestive heart failure
+S-0508,2018-07-02,I50.31,Acute diastolic (congestive) heart failure
+S-0513,2012-08-09,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0513,2018-12-11,I50.21,Acute systolic (congestive) heart failure
+S-0519,2019-12-06,I50.31,Acute diastolic (congestive) heart failure
+S-0519,2019-12-26,I97.13,Postprocedural heart failure
+S-0523,2015-09-26,I97.13,Postprocedural heart failure
+S-0523,2019-10-29,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0536,2016-09-18,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0538,2016-02-15,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0538,2019-07-02,I50.32,Chronic diastolic (congestive) heart failure
+S-0549,2010-03-23,I50.32,Chronic diastolic (congestive) heart failure
+S-0555,2012-08-23,I97.13,Postprocedural heart failure
+S-0557,2015-07-18,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0557,2017-08-01,I50.3,Diastolic (congestive) heart failure
+S-0557,2019-06-27,I50.9,"Heart failure, unspecified"
+S-0557,2019-08-20,I50.9,"Heart failure, unspecified"
+S-0557,2019-08-24,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0557,2019-12-29,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0565,2015-04-30,I50.31,Acute diastolic (congestive) heart failure
+S-0577,2014-03-08,I50.31,Acute diastolic (congestive) heart failure
+S-0577,2017-02-12,I50.2,Systolic (congestive) heart failure
+S-0577,2018-08-05,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0577,2019-12-20,I50.22,Chronic systolic (congestive) heart failure
+S-0579,2016-03-20,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0579,2017-08-14,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0584,2014-07-14,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0590,2019-04-11,I50.21,Acute systolic (congestive) heart failure
+S-0590,2019-09-08,I50.30,Unspecified diastolic (congestive) heart failure
+S-0590,2019-10-07,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0590,2019-12-26,I97.13,Postprocedural heart failure
+S-0590,2019-12-30,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0591,2011-05-19,I97.131,Postprocedural heart failure following other surgery
+S-0599,2013-12-27,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0600,2012-03-28,I50.31,Acute diastolic (congestive) heart failure
+S-0605,2011-05-28,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0605,2015-03-28,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0608,2010-02-13,I50.22,Chronic systolic (congestive) heart failure
+S-0608,2012-01-18,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0616,2012-05-05,I50.30,Unspecified diastolic (congestive) heart failure
+S-0618,2019-07-20,I97.13,Postprocedural heart failure
+S-0618,2019-12-04,I50.3,Diastolic (congestive) heart failure
+S-0618,2019-12-29,I97.131,Postprocedural heart failure following other surgery
+S-0618,2019-12-29,I50.22,Chronic systolic (congestive) heart failure
+S-0618,2019-12-29,I50.31,Acute diastolic (congestive) heart failure
+S-0618,2019-12-29,I50.9,"Heart failure, unspecified"
+S-0618,2019-12-29,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0618,2019-12-29,I50.3,Diastolic (congestive) heart failure
+S-0624,2013-06-17,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0624,2014-12-14,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0624,2017-06-30,I97.131,Postprocedural heart failure following other surgery
+S-0634,2015-01-08,I50.21,Acute systolic (congestive) heart failure
+S-0637,2015-04-30,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0637,2015-10-09,I97.131,Postprocedural heart failure following other surgery
+S-0638,2014-11-13,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0638,2016-11-21,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0640,2019-03-29,I50.20,Unspecified systolic (congestive) heart failure
+S-0644,2010-09-12,I97.131,Postprocedural heart failure following other surgery
+S-0644,2016-06-12,I50.21,Acute systolic (congestive) heart failure
+S-0644,2017-08-19,I50.9,"Heart failure, unspecified"
+S-0644,2018-05-07,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0644,2019-07-28,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0644,2019-11-16,I50.21,Acute systolic (congestive) heart failure
+S-0644,2019-12-13,I97.131,Postprocedural heart failure following other surgery
+S-0644,2019-12-16,I50.9,"Heart failure, unspecified"
+S-0657,2018-01-16,I50.31,Acute diastolic (congestive) heart failure
+S-0657,2019-06-02,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0657,2019-10-23,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0657,2019-11-17,I50.3,Diastolic (congestive) heart failure
+S-0658,2013-02-19,I50.32,Chronic diastolic (congestive) heart failure
+S-0658,2015-06-18,I97.13,Postprocedural heart failure
+S-0658,2016-12-12,I97.13,Postprocedural heart failure
+S-0669,2011-05-19,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0671,2018-01-20,I50.20,Unspecified systolic (congestive) heart failure
+S-0672,2018-03-15,I97.13,Postprocedural heart failure
+S-0673,2015-05-23,I50.0,Congestive heart failure
+S-0674,2016-01-01,I97.130,Postprocedural heart failure following cardiac surgery
+S-0677,2012-12-28,I50.30,Unspecified diastolic (congestive) heart failure
+S-0678,2017-09-16,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0688,2014-10-01,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0688,2016-11-30,I97.13,Postprocedural heart failure
+S-0688,2017-08-12,I50.3,Diastolic (congestive) heart failure
+S-0689,2014-02-25,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0689,2017-11-29,I50.0,Congestive heart failure
+S-0689,2018-01-06,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0689,2018-01-12,I97.131,Postprocedural heart failure following other surgery
+S-0689,2018-03-06,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0691,2017-08-21,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0691,2018-09-19,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0693,2019-05-21,I50.1,Left ventricular failure
+S-0694,2017-09-19,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0694,2019-06-06,I50.32,Chronic diastolic (congestive) heart failure
+S-0694,2019-09-02,I50.31,Acute diastolic (congestive) heart failure
+S-0694,2019-11-04,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0694,2019-11-28,I50.22,Chronic systolic (congestive) heart failure
+S-0698,2018-09-08,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0698,2019-09-23,I50.22,Chronic systolic (congestive) heart failure
+S-0700,2011-11-25,I97.130,Postprocedural heart failure following cardiac surgery
+S-0706,2013-08-10,I50.3,Diastolic (congestive) heart failure
+S-0706,2018-10-03,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0708,2017-02-19,I50.1,Left ventricular failure
+S-0708,2019-05-25,I97.131,Postprocedural heart failure following other surgery
+S-0719,2010-12-12,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0719,2018-04-13,I50.3,Diastolic (congestive) heart failure
+S-0719,2019-10-03,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0719,2019-11-03,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0720,2019-05-02,I97.13,Postprocedural heart failure
+S-0720,2019-08-03,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0720,2019-09-29,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0720,2019-10-18,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0726,2016-09-14,I50.9,"Heart failure, unspecified"
+S-0727,2015-12-18,I50.22,Chronic systolic (congestive) heart failure
+S-0727,2016-11-09,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0729,2019-02-06,I97.13,Postprocedural heart failure
+S-0730,2018-08-21,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0730,2019-04-24,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0730,2019-07-17,I50.2,Systolic (congestive) heart failure
+S-0730,2019-07-26,I50.31,Acute diastolic (congestive) heart failure
+S-0730,2019-09-18,I50.22,Chronic systolic (congestive) heart failure
+S-0730,2019-11-23,I50.3,Diastolic (congestive) heart failure
+S-0731,2018-11-03,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0731,2019-01-18,I97.131,Postprocedural heart failure following other surgery
+S-0733,2014-01-08,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0733,2017-10-09,I97.130,Postprocedural heart failure following cardiac surgery
+S-0735,2017-12-13,I50.22,Chronic systolic (congestive) heart failure
+S-0743,2015-02-22,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0748,2013-11-17,I97.13,Postprocedural heart failure
+S-0753,2016-04-30,I97.131,Postprocedural heart failure following other surgery
+S-0753,2017-11-23,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0753,2019-05-01,I97.13,Postprocedural heart failure
+S-0753,2019-09-14,I50.20,Unspecified systolic (congestive) heart failure
+S-0753,2019-10-16,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0753,2019-12-06,I50.1,Left ventricular failure
+S-0753,2019-12-19,I50.32,Chronic diastolic (congestive) heart failure
+S-0753,2019-12-23,I50.31,Acute diastolic (congestive) heart failure
+S-0764,2016-09-19,I50.31,Acute diastolic (congestive) heart failure
+S-0764,2017-03-01,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0765,2016-09-03,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0765,2016-10-14,I50.0,Congestive heart failure
+S-0765,2018-03-08,I50.20,Unspecified systolic (congestive) heart failure
+S-0769,2019-01-18,I50.20,Unspecified systolic (congestive) heart failure
+S-0770,2017-12-07,I97.13,Postprocedural heart failure
+S-0770,2018-07-16,I50.32,Chronic diastolic (congestive) heart failure
+S-0770,2019-03-08,I50.0,Congestive heart failure
+S-0770,2019-07-05,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0770,2019-10-19,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0773,2012-11-06,I50.32,Chronic diastolic (congestive) heart failure
+S-0778,2019-12-12,I97.130,Postprocedural heart failure following cardiac surgery
+S-0779,2012-08-08,I50.0,Congestive heart failure
+S-0779,2016-10-08,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0779,2017-10-22,I50.30,Unspecified diastolic (congestive) heart failure
+S-0782,2014-03-16,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0789,2013-04-23,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0789,2013-08-24,I50.22,Chronic systolic (congestive) heart failure
+S-0794,2010-07-14,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0794,2016-03-23,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0803,2011-09-17,I50.20,Unspecified systolic (congestive) heart failure
+S-0803,2014-03-28,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0804,2019-10-14,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0813,2015-09-25,I50.32,Chronic diastolic (congestive) heart failure
+S-0819,2018-12-06,I97.131,Postprocedural heart failure following other surgery
+S-0821,2011-12-22,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0821,2015-12-23,I97.130,Postprocedural heart failure following cardiac surgery
+S-0824,2015-12-15,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0824,2019-03-20,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0828,2013-02-22,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0834,2014-04-11,I50.31,Acute diastolic (congestive) heart failure
+S-0834,2014-06-06,I50.9,"Heart failure, unspecified"
+S-0834,2018-12-20,I50.22,Chronic systolic (congestive) heart failure
+S-0834,2019-01-17,I50.32,Chronic diastolic (congestive) heart failure
+S-0838,2013-07-10,I50.9,"Heart failure, unspecified"
+S-0838,2017-12-23,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0840,2012-08-15,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0847,2014-09-08,I50.31,Acute diastolic (congestive) heart failure
+S-0847,2019-07-04,I50.1,Left ventricular failure
+S-0855,2014-09-18,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0855,2018-05-20,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0855,2019-07-05,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0855,2019-10-02,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0855,2019-10-10,I97.130,Postprocedural heart failure following cardiac surgery
+S-0855,2019-12-27,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0855,2019-12-27,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0855,2019-12-30,I50.1,Left ventricular failure
+S-0856,2016-11-07,I50.0,Congestive heart failure
+S-0861,2015-04-08,I50.32,Chronic diastolic (congestive) heart failure
+S-0861,2017-02-16,I97.130,Postprocedural heart failure following cardiac surgery
+S-0861,2019-09-20,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0862,2011-09-27,I50.22,Chronic systolic (congestive) heart failure
+S-0862,2013-01-12,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0862,2014-02-16,I97.131,Postprocedural heart failure following other surgery
+S-0862,2019-05-09,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0862,2019-07-21,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0862,2019-12-13,I50.31,Acute diastolic (congestive) heart failure
+S-0864,2014-11-20,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0867,2014-11-03,I50.9,"Heart failure, unspecified"
+S-0872,2016-11-12,I50.20,Unspecified systolic (congestive) heart failure
+S-0872,2018-07-28,I97.131,Postprocedural heart failure following other surgery
+S-0878,2013-02-10,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0878,2014-07-04,I50.21,Acute systolic (congestive) heart failure
+S-0878,2016-10-26,I97.131,Postprocedural heart failure following other surgery
+S-0879,2013-04-10,I97.130,Postprocedural heart failure following cardiac surgery
+S-0879,2014-08-21,I50.0,Congestive heart failure
+S-0883,2013-09-05,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0887,2013-11-22,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0888,2018-11-05,I50.23,Acute on chronic systolic (congestive) heart failure
+S-0888,2019-12-02,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0888,2019-12-12,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0888,2019-12-17,I97.13,Postprocedural heart failure
+S-0888,2019-12-26,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0893,2016-06-09,I50.31,Acute diastolic (congestive) heart failure
+S-0893,2017-09-20,I50.0,Congestive heart failure
+S-0899,2019-03-25,I50.21,Acute systolic (congestive) heart failure
+S-0899,2019-03-25,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0899,2019-05-17,I50.30,Unspecified diastolic (congestive) heart failure
+S-0905,2011-06-22,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0905,2017-08-09,I97.13,Postprocedural heart failure
+S-0907,2011-09-18,I50.31,Acute diastolic (congestive) heart failure
+S-0907,2019-02-09,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0909,2017-03-10,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0909,2019-10-06,I50.30,Unspecified diastolic (congestive) heart failure
+S-0915,2010-04-16,I50.31,Acute diastolic (congestive) heart failure
+S-0922,2011-12-25,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0925,2015-09-27,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0925,2017-10-02,I50.21,Acute systolic (congestive) heart failure
+S-0927,2014-08-15,I50.1,Left ventricular failure
+S-0927,2016-11-15,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0937,2013-02-21,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0937,2014-02-21,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0937,2016-02-22,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0937,2017-12-08,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-0937,2018-11-13,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0939,2017-09-13,I97.13,Postprocedural heart failure
+S-0940,2011-06-12,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0940,2014-03-23,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0943,2015-02-25,I97.130,Postprocedural heart failure following cardiac surgery
+S-0943,2015-04-05,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0944,2016-06-20,I50.2,Systolic (congestive) heart failure
+S-0944,2018-08-28,I50.20,Unspecified systolic (congestive) heart failure
+S-0956,2016-06-27,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0956,2017-10-08,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0956,2019-07-10,I97.131,Postprocedural heart failure following other surgery
+S-0964,2018-11-25,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0964,2019-01-14,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0964,2019-06-18,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0964,2019-06-29,I50.20,Unspecified systolic (congestive) heart failure
+S-0967,2019-06-08,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0971,2016-06-13,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-0972,2016-04-22,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-0977,2018-05-24,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0977,2018-06-28,I97.130,Postprocedural heart failure following cardiac surgery
+S-0981,2017-08-09,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0981,2017-11-29,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0981,2018-10-02,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0981,2019-06-24,I50.20,Unspecified systolic (congestive) heart failure
+S-0984,2019-12-27,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0989,2018-12-09,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-0989,2019-10-08,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-0989,2019-12-01,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-0994,2010-10-30,I50.30,Unspecified diastolic (congestive) heart failure
+S-0994,2011-08-24,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-0994,2012-09-17,I50.2,Systolic (congestive) heart failure
+S-0995,2012-06-04,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-0995,2017-12-04,I97.13,Postprocedural heart failure
+S-0995,2019-01-01,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-0995,2019-01-29,I50.0,Congestive heart failure
+S-0995,2019-06-16,I50.9,"Heart failure, unspecified"
+S-1014,2013-05-14,I50.2,Systolic (congestive) heart failure
+S-1019,2014-02-03,I50.21,Acute systolic (congestive) heart failure
+S-1019,2015-09-17,I50.21,Acute systolic (congestive) heart failure
+S-1019,2015-12-10,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1028,2013-09-01,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1028,2016-03-04,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1028,2018-10-31,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1028,2019-09-30,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1028,2019-10-21,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1031,2018-08-28,I50.30,Unspecified diastolic (congestive) heart failure
+S-1031,2018-12-19,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1031,2019-10-18,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1031,2019-12-24,I50.22,Chronic systolic (congestive) heart failure
+S-1031,2019-12-30,I97.130,Postprocedural heart failure following cardiac surgery
+S-1031,2019-12-30,I50.9,"Heart failure, unspecified"
+S-1031,2019-12-30,I97.130,Postprocedural heart failure following cardiac surgery
+S-1032,2015-07-05,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1032,2016-10-20,I50.21,Acute systolic (congestive) heart failure
+S-1035,2016-09-27,I50.30,Unspecified diastolic (congestive) heart failure
+S-1036,2017-09-05,I50.31,Acute diastolic (congestive) heart failure
+S-1037,2011-01-18,I50.30,Unspecified diastolic (congestive) heart failure
+S-1037,2019-08-29,I50.3,Diastolic (congestive) heart failure
+S-1038,2015-02-20,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1040,2014-11-16,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1041,2014-05-02,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1044,2012-08-29,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1044,2014-01-12,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1044,2016-09-23,I97.13,Postprocedural heart failure
+S-1044,2018-03-21,I97.131,Postprocedural heart failure following other surgery
+S-1045,2016-05-14,I97.130,Postprocedural heart failure following cardiac surgery
+S-1046,2012-07-14,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1048,2010-02-11,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1048,2018-03-08,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1068,2013-04-05,I50.1,Left ventricular failure
+S-1076,2019-06-29,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1079,2018-02-04,I50.2,Systolic (congestive) heart failure
+S-1079,2019-07-25,I50.21,Acute systolic (congestive) heart failure
+S-1079,2019-09-21,I50.30,Unspecified diastolic (congestive) heart failure
+S-1079,2019-10-17,I50.9,"Heart failure, unspecified"
+S-1084,2011-01-23,I50.2,Systolic (congestive) heart failure
+S-1084,2018-01-15,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1084,2018-02-12,I50.2,Systolic (congestive) heart failure
+S-1092,2011-06-30,I50.1,Left ventricular failure
+S-1092,2018-06-06,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1094,2016-07-25,I50.3,Diastolic (congestive) heart failure
+S-1094,2019-06-14,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1098,2010-08-26,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1098,2015-10-10,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1106,2016-06-24,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1110,2016-07-26,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1110,2018-04-12,I50.1,Left ventricular failure
+S-1110,2019-08-19,I50.32,Chronic diastolic (congestive) heart failure
+S-1110,2019-10-17,I50.32,Chronic diastolic (congestive) heart failure
+S-1110,2019-12-25,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1112,2013-05-28,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1118,2015-02-19,I50.22,Chronic systolic (congestive) heart failure
+S-1118,2017-07-12,I50.21,Acute systolic (congestive) heart failure
+S-1118,2017-12-08,I50.0,Congestive heart failure
+S-1119,2011-03-03,I50.20,Unspecified systolic (congestive) heart failure
+S-1136,2019-04-15,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1136,2019-12-13,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1139,2013-07-31,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1139,2013-09-06,I50.2,Systolic (congestive) heart failure
+S-1139,2016-06-16,I50.31,Acute diastolic (congestive) heart failure
+S-1147,2018-02-02,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1149,2015-09-20,I50.20,Unspecified systolic (congestive) heart failure
+S-1151,2012-11-28,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1153,2010-04-18,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1154,2016-03-08,I97.13,Postprocedural heart failure
+S-1154,2019-01-14,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1158,2012-08-29,I97.131,Postprocedural heart failure following other surgery
+S-1158,2017-11-25,I50.22,Chronic systolic (congestive) heart failure
+S-1160,2017-07-17,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1164,2011-01-18,I97.13,Postprocedural heart failure
+S-1171,2017-06-16,I50.30,Unspecified diastolic (congestive) heart failure
+S-1171,2019-10-03,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1173,2013-08-27,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1173,2016-09-20,I50.32,Chronic diastolic (congestive) heart failure
+S-1173,2019-07-15,I50.2,Systolic (congestive) heart failure
+S-1176,2016-03-03,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1176,2016-12-20,I50.20,Unspecified systolic (congestive) heart failure
+S-1176,2019-05-23,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1182,2014-08-12,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1182,2015-07-20,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1182,2015-12-27,I50.2,Systolic (congestive) heart failure
+S-1182,2017-07-18,I50.31,Acute diastolic (congestive) heart failure
+S-1188,2013-12-18,I97.13,Postprocedural heart failure
+S-1193,2016-11-28,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1194,2015-11-10,I50.31,Acute diastolic (congestive) heart failure
+S-1199,2019-01-04,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1199,2019-07-04,I50.22,Chronic systolic (congestive) heart failure
+S-1203,2014-08-01,I50.2,Systolic (congestive) heart failure
+S-1203,2015-11-28,I50.32,Chronic diastolic (congestive) heart failure
+S-1203,2018-06-14,I50.30,Unspecified diastolic (congestive) heart failure
+S-1204,2010-08-12,I50.21,Acute systolic (congestive) heart failure
+S-1204,2013-02-28,I97.13,Postprocedural heart failure
+S-1204,2015-04-06,I97.131,Postprocedural heart failure following other surgery
+S-1204,2017-06-20,I50.32,Chronic diastolic (congestive) heart failure
+S-1206,2010-09-24,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1214,2016-01-25,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1217,2013-06-03,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1217,2017-10-31,I97.130,Postprocedural heart failure following cardiac surgery
+S-1217,2018-03-18,I50.9,"Heart failure, unspecified"
+S-1228,2014-08-04,I97.13,Postprocedural heart failure
+S-1228,2019-04-10,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1229,2019-06-04,I50.32,Chronic diastolic (congestive) heart failure
+S-1229,2019-08-24,I50.9,"Heart failure, unspecified"
+S-1232,2013-09-19,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1234,2014-05-30,I50.21,Acute systolic (congestive) heart failure
+S-1234,2015-01-07,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1236,2010-10-26,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1236,2012-06-16,I50.2,Systolic (congestive) heart failure
+S-1239,2013-04-20,I50.32,Chronic diastolic (congestive) heart failure
+S-1245,2012-04-23,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1246,2019-07-20,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1250,2014-06-15,I50.22,Chronic systolic (congestive) heart failure
+S-1257,2018-08-01,I50.30,Unspecified diastolic (congestive) heart failure
+S-1258,2011-04-11,I50.3,Diastolic (congestive) heart failure
+S-1258,2016-10-31,I50.21,Acute systolic (congestive) heart failure
+S-1258,2018-05-31,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1263,2015-11-26,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1266,2016-05-23,I50.9,"Heart failure, unspecified"
+S-1266,2018-12-11,I50.30,Unspecified diastolic (congestive) heart failure
+S-1266,2019-02-12,I97.13,Postprocedural heart failure
+S-1266,2019-09-04,I97.13,Postprocedural heart failure
+S-1266,2019-10-09,I50.0,Congestive heart failure
+S-1266,2019-12-04,I50.2,Systolic (congestive) heart failure
+S-1269,2012-04-21,I50.9,"Heart failure, unspecified"
+S-1269,2016-04-01,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1269,2018-09-14,I97.131,Postprocedural heart failure following other surgery
+S-1269,2019-07-21,I50.31,Acute diastolic (congestive) heart failure
+S-1269,2019-11-10,I50.20,Unspecified systolic (congestive) heart failure
+S-1269,2019-12-05,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1273,2012-01-04,I50.22,Chronic systolic (congestive) heart failure
+S-1273,2012-11-22,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1273,2013-07-15,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1273,2017-05-10,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1275,2017-03-14,I50.22,Chronic systolic (congestive) heart failure
+S-1276,2010-04-06,I50.21,Acute systolic (congestive) heart failure
+S-1289,2017-01-10,I50.9,"Heart failure, unspecified"
+S-1289,2018-12-29,I97.130,Postprocedural heart failure following cardiac surgery
+S-1298,2014-09-21,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1298,2017-11-01,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1299,2015-04-07,I50.9,"Heart failure, unspecified"
+S-1300,2011-05-22,I50.3,Diastolic (congestive) heart failure
+S-1304,2012-07-10,I50.31,Acute diastolic (congestive) heart failure
+S-1304,2018-05-04,I97.130,Postprocedural heart failure following cardiac surgery
+S-1304,2019-09-18,I50.31,Acute diastolic (congestive) heart failure
+S-1312,2016-04-23,I50.20,Unspecified systolic (congestive) heart failure
+S-1312,2019-04-12,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1312,2019-07-21,I50.21,Acute systolic (congestive) heart failure
+S-1318,2015-02-03,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1318,2015-04-10,I50.9,"Heart failure, unspecified"
+S-1318,2017-01-13,I50.2,Systolic (congestive) heart failure
+S-1319,2015-07-03,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1320,2011-09-02,I97.130,Postprocedural heart failure following cardiac surgery
+S-1320,2013-07-13,I50.22,Chronic systolic (congestive) heart failure
+S-1327,2015-02-05,I50.3,Diastolic (congestive) heart failure
+S-1327,2018-06-07,I50.30,Unspecified diastolic (congestive) heart failure
+S-1330,2018-01-26,I97.130,Postprocedural heart failure following cardiac surgery
+S-1332,2011-03-19,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1334,2014-10-26,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1339,2012-07-24,I50.1,Left ventricular failure
+S-1341,2017-05-25,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1347,2015-11-06,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1347,2017-09-08,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1348,2010-04-22,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1348,2012-06-28,I50.2,Systolic (congestive) heart failure
+S-1348,2017-09-15,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1348,2019-11-24,I50.9,"Heart failure, unspecified"
+S-1348,2019-12-09,I50.20,Unspecified systolic (congestive) heart failure
+S-1348,2019-12-22,I50.21,Acute systolic (congestive) heart failure
+S-1348,2019-12-23,I97.130,Postprocedural heart failure following cardiac surgery
+S-1352,2012-01-20,I50.1,Left ventricular failure
+S-1352,2014-01-05,I97.13,Postprocedural heart failure
+S-1357,2017-06-22,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1357,2018-08-09,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1359,2014-02-08,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1359,2017-06-05,I50.31,Acute diastolic (congestive) heart failure
+S-1359,2017-08-03,I50.32,Chronic diastolic (congestive) heart failure
+S-1359,2018-12-24,I50.9,"Heart failure, unspecified"
+S-1361,2012-02-17,I50.1,Left ventricular failure
+S-1361,2017-09-06,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1361,2019-11-16,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1363,2017-02-21,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1365,2014-02-09,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1365,2016-11-24,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1369,2015-12-23,I50.3,Diastolic (congestive) heart failure
+S-1379,2019-03-13,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1379,2019-05-30,I50.20,Unspecified systolic (congestive) heart failure
+S-1379,2019-12-14,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1379,2019-12-24,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1379,2019-12-30,I50.22,Chronic systolic (congestive) heart failure
+S-1388,2016-09-08,I50.1,Left ventricular failure
+S-1388,2018-08-17,I97.131,Postprocedural heart failure following other surgery
+S-1392,2013-07-08,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1393,2018-07-13,I50.20,Unspecified systolic (congestive) heart failure
+S-1393,2019-06-30,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1393,2019-08-10,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1393,2019-11-27,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1413,2011-03-18,I50.20,Unspecified systolic (congestive) heart failure
+S-1417,2010-03-12,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1417,2013-06-12,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1422,2012-06-25,I50.31,Acute diastolic (congestive) heart failure
+S-1422,2018-06-14,I50.1,Left ventricular failure
+S-1423,2014-02-24,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1423,2014-08-01,I97.13,Postprocedural heart failure
+S-1428,2019-10-14,I50.9,"Heart failure, unspecified"
+S-1428,2019-12-06,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1429,2012-12-01,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1429,2015-03-30,I50.9,"Heart failure, unspecified"
+S-1429,2019-12-04,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1429,2019-12-19,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1429,2019-12-19,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1429,2019-12-24,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1429,2019-12-25,I50.32,Chronic diastolic (congestive) heart failure
+S-1440,2019-08-14,I50.9,"Heart failure, unspecified"
+S-1440,2019-09-20,I50.20,Unspecified systolic (congestive) heart failure
+S-1440,2019-12-14,I97.13,Postprocedural heart failure
+S-1440,2019-12-25,I50.1,Left ventricular failure
+S-1440,2019-12-30,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1445,2019-12-17,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1446,2014-08-18,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1447,2019-06-25,I50.1,Left ventricular failure
+S-1447,2019-08-28,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1448,2015-03-03,I97.130,Postprocedural heart failure following cardiac surgery
+S-1451,2012-09-22,I50.9,"Heart failure, unspecified"
+S-1452,2010-08-28,I50.0,Congestive heart failure
+S-1454,2011-06-13,I50.21,Acute systolic (congestive) heart failure
+S-1454,2013-04-14,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1454,2013-06-18,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1454,2017-02-26,I97.130,Postprocedural heart failure following cardiac surgery
+S-1454,2019-09-06,I50.22,Chronic systolic (congestive) heart failure
+S-1454,2019-12-25,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1460,2012-12-11,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1467,2014-03-19,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1467,2017-11-12,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1467,2018-08-09,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1468,2017-05-25,I50.21,Acute systolic (congestive) heart failure
+S-1468,2019-12-07,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1468,2019-12-22,I50.0,Congestive heart failure
+S-1468,2019-12-27,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1468,2019-12-30,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1475,2019-03-14,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1477,2016-09-07,I97.131,Postprocedural heart failure following other surgery
+S-1477,2018-11-27,I50.31,Acute diastolic (congestive) heart failure
+S-1478,2017-04-04,I97.131,Postprocedural heart failure following other surgery
+S-1479,2018-11-20,I50.32,Chronic diastolic (congestive) heart failure
+S-1485,2010-09-24,I50.3,Diastolic (congestive) heart failure
+S-1497,2010-02-13,I50.20,Unspecified systolic (congestive) heart failure
+S-1503,2016-07-20,I50.9,"Heart failure, unspecified"
+S-1503,2019-04-04,I50.31,Acute diastolic (congestive) heart failure
+S-1503,2019-11-10,I50.21,Acute systolic (congestive) heart failure
+S-1505,2011-05-09,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1505,2013-05-22,I50.20,Unspecified systolic (congestive) heart failure
+S-1516,2014-11-03,I50.2,Systolic (congestive) heart failure
+S-1520,2015-04-28,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1520,2016-11-24,I50.31,Acute diastolic (congestive) heart failure
+S-1526,2017-10-21,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1542,2015-04-22,I97.13,Postprocedural heart failure
+S-1542,2016-03-01,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1542,2018-02-02,I50.9,"Heart failure, unspecified"
+S-1547,2014-04-24,I50.20,Unspecified systolic (congestive) heart failure
+S-1547,2017-09-10,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1554,2013-11-16,I50.31,Acute diastolic (congestive) heart failure
+S-1563,2010-04-05,I97.13,Postprocedural heart failure
+S-1563,2019-11-17,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1565,2017-05-22,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1565,2019-11-22,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1566,2014-09-14,I97.13,Postprocedural heart failure
+S-1568,2012-11-01,I50.20,Unspecified systolic (congestive) heart failure
+S-1570,2019-03-30,I50.20,Unspecified systolic (congestive) heart failure
+S-1572,2016-04-21,I50.22,Chronic systolic (congestive) heart failure
+S-1572,2017-03-01,I50.31,Acute diastolic (congestive) heart failure
+S-1591,2016-02-11,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1600,2015-06-16,I50.0,Congestive heart failure
+S-1600,2016-08-17,I50.9,"Heart failure, unspecified"
+S-1602,2014-02-01,I50.21,Acute systolic (congestive) heart failure
+S-1605,2016-11-16,I97.131,Postprocedural heart failure following other surgery
+S-1605,2019-08-21,I50.20,Unspecified systolic (congestive) heart failure
+S-1614,2016-12-22,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1633,2018-04-08,I50.30,Unspecified diastolic (congestive) heart failure
+S-1634,2019-03-27,I50.20,Unspecified systolic (congestive) heart failure
+S-1634,2019-09-10,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1636,2016-01-15,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1641,2018-03-05,I97.131,Postprocedural heart failure following other surgery
+S-1641,2019-04-25,I50.2,Systolic (congestive) heart failure
+S-1641,2019-11-05,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1641,2019-11-06,I50.30,Unspecified diastolic (congestive) heart failure
+S-1647,2016-06-05,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1647,2018-09-16,I97.130,Postprocedural heart failure following cardiac surgery
+S-1647,2019-02-03,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1649,2011-10-30,I50.9,"Heart failure, unspecified"
+S-1649,2018-09-20,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1649,2019-10-08,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1656,2012-03-14,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1660,2013-11-03,I50.22,Chronic systolic (congestive) heart failure
+S-1663,2018-10-17,I50.9,"Heart failure, unspecified"
+S-1663,2019-05-20,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1666,2016-01-03,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1678,2010-02-01,I50.21,Acute systolic (congestive) heart failure
+S-1689,2011-09-15,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1690,2019-09-10,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1700,2011-07-28,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1700,2019-11-26,I97.130,Postprocedural heart failure following cardiac surgery
+S-1700,2019-12-12,I50.1,Left ventricular failure
+S-1702,2013-05-05,I97.131,Postprocedural heart failure following other surgery
+S-1707,2014-05-03,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1711,2012-03-04,I97.131,Postprocedural heart failure following other surgery
+S-1711,2013-03-30,I50.22,Chronic systolic (congestive) heart failure
+S-1719,2017-01-26,I50.9,"Heart failure, unspecified"
+S-1719,2018-12-05,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1732,2015-06-15,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1732,2016-01-13,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1740,2018-07-07,I50.3,Diastolic (congestive) heart failure
+S-1740,2019-03-31,I50.9,"Heart failure, unspecified"
+S-1743,2014-10-02,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1752,2017-06-30,I50.0,Congestive heart failure
+S-1753,2016-08-26,I50.22,Chronic systolic (congestive) heart failure
+S-1753,2016-09-22,I50.20,Unspecified systolic (congestive) heart failure
+S-1755,2018-09-01,I97.13,Postprocedural heart failure
+S-1755,2019-08-12,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1755,2019-08-27,I50.3,Diastolic (congestive) heart failure
+S-1762,2016-10-07,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1763,2016-06-14,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1764,2019-02-16,I50.2,Systolic (congestive) heart failure
+S-1765,2013-04-12,I50.9,"Heart failure, unspecified"
+S-1765,2017-10-02,I50.20,Unspecified systolic (congestive) heart failure
+S-1765,2019-08-01,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1767,2014-11-19,I97.131,Postprocedural heart failure following other surgery
+S-1778,2018-10-30,I50.9,"Heart failure, unspecified"
+S-1781,2012-10-11,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1784,2014-08-29,I50.30,Unspecified diastolic (congestive) heart failure
+S-1784,2016-02-10,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1784,2019-12-22,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1789,2015-09-24,I50.21,Acute systolic (congestive) heart failure
+S-1790,2019-12-29,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1808,2017-12-23,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1811,2012-06-20,I50.21,Acute systolic (congestive) heart failure
+S-1813,2014-12-07,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1813,2017-01-02,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1813,2019-02-21,I50.31,Acute diastolic (congestive) heart failure
+S-1813,2019-08-06,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1813,2019-11-26,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1813,2019-12-08,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1813,2019-12-12,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1813,2019-12-24,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1813,2019-12-25,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1813,2019-12-29,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1814,2019-07-27,I50.20,Unspecified systolic (congestive) heart failure
+S-1814,2019-11-02,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1814,2019-11-15,I50.3,Diastolic (congestive) heart failure
+S-1814,2019-12-04,I50.3,Diastolic (congestive) heart failure
+S-1814,2019-12-26,I50.31,Acute diastolic (congestive) heart failure
+S-1814,2019-12-30,I50.30,Unspecified diastolic (congestive) heart failure
+S-1814,2019-12-30,I97.13,Postprocedural heart failure
+S-1816,2017-06-05,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1832,2011-06-10,I97.131,Postprocedural heart failure following other surgery
+S-1841,2010-03-01,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1841,2014-11-07,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1844,2015-02-18,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1844,2018-03-25,I50.30,Unspecified diastolic (congestive) heart failure
+S-1844,2019-10-01,I50.32,Chronic diastolic (congestive) heart failure
+S-1850,2017-11-27,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1850,2018-02-10,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1852,2010-01-10,I50.9,"Heart failure, unspecified"
+S-1852,2017-07-03,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1856,2012-11-11,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1856,2013-04-20,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1856,2013-10-07,I50.20,Unspecified systolic (congestive) heart failure
+S-1862,2015-05-17,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1862,2017-12-06,I50.1,Left ventricular failure
+S-1867,2010-03-14,I50.21,Acute systolic (congestive) heart failure
+S-1867,2013-03-23,I50.20,Unspecified systolic (congestive) heart failure
+S-1867,2014-10-17,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1867,2019-10-08,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1868,2015-02-18,I50.21,Acute systolic (congestive) heart failure
+S-1872,2016-04-23,I50.22,Chronic systolic (congestive) heart failure
+S-1872,2019-10-24,I50.32,Chronic diastolic (congestive) heart failure
+S-1889,2011-03-02,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1889,2017-08-22,I97.130,Postprocedural heart failure following cardiac surgery
+S-1889,2019-05-03,I50.30,Unspecified diastolic (congestive) heart failure
+S-1900,2019-11-14,I50.9,"Heart failure, unspecified"
+S-1902,2018-01-30,I50.3,Diastolic (congestive) heart failure
+S-1902,2019-03-07,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-1903,2017-01-31,I50.30,Unspecified diastolic (congestive) heart failure
+S-1903,2018-12-13,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1904,2013-08-18,I50.20,Unspecified systolic (congestive) heart failure
+S-1904,2017-02-08,I50.23,Acute on chronic systolic (congestive) heart failure
+S-1904,2019-09-17,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1907,2011-04-30,I97.131,Postprocedural heart failure following other surgery
+S-1907,2018-06-10,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1907,2019-07-09,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1918,2016-03-26,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1918,2016-11-01,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1918,2017-03-14,I50.21,Acute systolic (congestive) heart failure
+S-1918,2018-07-14,I50.3,Diastolic (congestive) heart failure
+S-1918,2018-09-22,I50.2,Systolic (congestive) heart failure
+S-1921,2014-11-17,I50.31,Acute diastolic (congestive) heart failure
+S-1921,2017-01-06,I50.9,"Heart failure, unspecified"
+S-1924,2014-06-07,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1924,2014-08-08,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-1927,2018-05-23,I97.130,Postprocedural heart failure following cardiac surgery
+S-1929,2013-11-19,I50.1,Left ventricular failure
+S-1929,2019-01-14,I50.9,"Heart failure, unspecified"
+S-1936,2016-01-05,I50.1,Left ventricular failure
+S-1937,2013-02-22,I50.0,Congestive heart failure
+S-1937,2014-04-12,I50.31,Acute diastolic (congestive) heart failure
+S-1940,2013-02-05,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1940,2017-01-14,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-1944,2019-01-01,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1952,2011-08-10,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-1952,2013-03-21,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-1960,2010-05-11,I50.30,Unspecified diastolic (congestive) heart failure
+S-1960,2013-09-26,I50.32,Chronic diastolic (congestive) heart failure
+S-1961,2011-02-18,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-1961,2012-02-09,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-1962,2015-01-15,I50.2,Systolic (congestive) heart failure
+S-1966,2018-05-11,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-1967,2017-01-14,I50.0,Congestive heart failure
+S-1967,2017-08-19,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-1987,2014-10-08,I50.2,Systolic (congestive) heart failure
+S-1989,2010-04-23,I97.13,Postprocedural heart failure
+S-1993,2015-01-24,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2003,2010-07-07,I50.1,Left ventricular failure
+S-2003,2013-11-04,I97.13,Postprocedural heart failure
+S-2004,2016-09-15,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2006,2011-03-24,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2006,2016-11-15,I50.1,Left ventricular failure
+S-2006,2018-06-18,I50.0,Congestive heart failure
+S-2006,2019-01-02,I97.13,Postprocedural heart failure
+S-2010,2019-08-24,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2011,2015-09-27,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2011,2018-02-28,I50.2,Systolic (congestive) heart failure
+S-2011,2019-10-18,I97.13,Postprocedural heart failure
+S-2011,2019-10-18,I97.131,Postprocedural heart failure following other surgery
+S-2011,2019-12-26,I97.13,Postprocedural heart failure
+S-2011,2019-12-29,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2014,2019-04-10,I50.32,Chronic diastolic (congestive) heart failure
+S-2014,2019-07-28,I50.9,"Heart failure, unspecified"
+S-2018,2011-09-08,I50.30,Unspecified diastolic (congestive) heart failure
+S-2018,2013-11-21,I50.31,Acute diastolic (congestive) heart failure
+S-2025,2012-09-24,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2032,2018-09-15,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2032,2018-11-03,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2032,2019-07-13,I50.1,Left ventricular failure
+S-2032,2019-12-29,I50.32,Chronic diastolic (congestive) heart failure
+S-2035,2016-04-08,I50.9,"Heart failure, unspecified"
+S-2035,2018-01-12,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2036,2015-08-19,I97.13,Postprocedural heart failure
+S-2036,2018-05-17,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2038,2019-06-06,I50.1,Left ventricular failure
+S-2046,2015-09-01,I50.20,Unspecified systolic (congestive) heart failure
+S-2052,2013-04-03,I50.3,Diastolic (congestive) heart failure
+S-2066,2011-07-07,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2066,2015-09-16,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-2066,2019-02-14,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2066,2019-07-15,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2066,2019-09-23,I50.30,Unspecified diastolic (congestive) heart failure
+S-2066,2019-11-08,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2066,2019-12-16,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2066,2019-12-17,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2067,2015-01-27,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2069,2014-09-30,I50.0,Congestive heart failure
+S-2069,2018-10-28,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2073,2015-10-21,I50.32,Chronic diastolic (congestive) heart failure
+S-2073,2018-06-17,I50.1,Left ventricular failure
+S-2073,2019-12-15,I50.22,Chronic systolic (congestive) heart failure
+S-2074,2012-07-02,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2077,2019-11-09,I50.31,Acute diastolic (congestive) heart failure
+S-2077,2019-11-15,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2077,2019-12-20,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2077,2019-12-23,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2078,2013-01-01,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-2083,2010-06-09,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2083,2017-08-12,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2083,2019-07-10,I50.30,Unspecified diastolic (congestive) heart failure
+S-2083,2019-09-17,I50.22,Chronic systolic (congestive) heart failure
+S-2088,2019-07-23,I50.22,Chronic systolic (congestive) heart failure
+S-2088,2019-11-13,I50.22,Chronic systolic (congestive) heart failure
+S-2088,2019-12-12,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2088,2019-12-24,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2088,2019-12-30,I50.31,Acute diastolic (congestive) heart failure
+S-2088,2019-12-30,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2105,2011-01-16,I50.21,Acute systolic (congestive) heart failure
+S-2107,2018-09-07,I50.31,Acute diastolic (congestive) heart failure
+S-2107,2018-12-16,I50.9,"Heart failure, unspecified"
+S-2115,2012-12-27,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2118,2015-03-26,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2118,2018-11-11,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-2118,2019-02-28,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2123,2017-10-09,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2125,2011-12-03,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2128,2012-05-04,I50.1,Left ventricular failure
+S-2140,2013-04-07,I50.31,Acute diastolic (congestive) heart failure
+S-2142,2016-01-24,I50.21,Acute systolic (congestive) heart failure
+S-2146,2010-06-10,I50.2,Systolic (congestive) heart failure
+S-2151,2013-07-07,I50.22,Chronic systolic (congestive) heart failure
+S-2151,2015-02-16,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2151,2017-12-11,I50.21,Acute systolic (congestive) heart failure
+S-2151,2019-02-20,I50.9,"Heart failure, unspecified"
+S-2151,2019-06-13,I50.2,Systolic (congestive) heart failure
+S-2152,2017-07-25,I50.32,Chronic diastolic (congestive) heart failure
+S-2157,2015-08-24,I50.32,Chronic diastolic (congestive) heart failure
+S-2157,2017-07-21,I50.20,Unspecified systolic (congestive) heart failure
+S-2159,2012-01-14,I50.0,Congestive heart failure
+S-2159,2013-05-11,I50.20,Unspecified systolic (congestive) heart failure
+S-2159,2017-03-16,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2160,2013-09-23,I97.130,Postprocedural heart failure following cardiac surgery
+S-2160,2014-06-08,I97.13,Postprocedural heart failure
+S-2163,2012-07-15,I50.32,Chronic diastolic (congestive) heart failure
+S-2163,2015-08-06,I50.3,Diastolic (congestive) heart failure
+S-2163,2017-09-13,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2163,2018-06-19,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2163,2019-07-31,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2163,2019-12-14,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2165,2015-01-05,I50.31,Acute diastolic (congestive) heart failure
+S-2176,2011-06-21,I97.131,Postprocedural heart failure following other surgery
+S-2176,2018-11-09,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-2179,2015-05-10,I50.20,Unspecified systolic (congestive) heart failure
+S-2188,2011-10-28,I50.30,Unspecified diastolic (congestive) heart failure
+S-2190,2018-12-14,I50.3,Diastolic (congestive) heart failure
+S-2190,2019-12-19,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2190,2019-12-23,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2190,2019-12-28,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2190,2019-12-30,I50.31,Acute diastolic (congestive) heart failure
+S-2194,2017-10-25,I50.31,Acute diastolic (congestive) heart failure
+S-2208,2011-01-24,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2211,2019-11-15,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2211,2019-12-06,I50.1,Left ventricular failure
+S-2211,2019-12-29,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2212,2016-08-21,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2215,2014-09-06,I50.21,Acute systolic (congestive) heart failure
+S-2215,2018-06-11,I97.13,Postprocedural heart failure
+S-2223,2012-12-11,I50.32,Chronic diastolic (congestive) heart failure
+S-2223,2018-02-11,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2238,2011-08-09,I50.9,"Heart failure, unspecified"
+S-2244,2010-03-26,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2246,2014-12-26,I97.13,Postprocedural heart failure
+S-2250,2018-05-12,I50.0,Congestive heart failure
+S-2252,2014-03-16,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2255,2015-08-08,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2255,2019-08-05,I50.22,Chronic systolic (congestive) heart failure
+S-2273,2016-12-27,I50.3,Diastolic (congestive) heart failure
+S-2273,2018-09-01,I50.2,Systolic (congestive) heart failure
+S-2273,2019-10-31,I50.9,"Heart failure, unspecified"
+S-2273,2019-12-10,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2273,2019-12-13,I50.3,Diastolic (congestive) heart failure
+S-2286,2017-12-31,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2287,2017-01-22,I97.131,Postprocedural heart failure following other surgery
+S-2291,2011-11-01,I50.20,Unspecified systolic (congestive) heart failure
+S-2297,2011-09-08,I50.30,Unspecified diastolic (congestive) heart failure
+S-2297,2013-07-18,I50.1,Left ventricular failure
+S-2298,2016-09-22,I97.13,Postprocedural heart failure
+S-2299,2018-04-13,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2299,2018-11-21,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2299,2019-11-06,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2304,2017-03-22,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2304,2018-03-25,I50.30,Unspecified diastolic (congestive) heart failure
+S-2309,2016-10-23,I50.0,Congestive heart failure
+S-2316,2016-01-27,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-2316,2016-11-27,I50.21,Acute systolic (congestive) heart failure
+S-2321,2019-04-06,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2328,2016-07-31,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2328,2017-04-26,I50.22,Chronic systolic (congestive) heart failure
+S-2328,2019-06-25,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-2335,2016-02-16,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2335,2017-06-13,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2335,2017-07-15,I97.130,Postprocedural heart failure following cardiac surgery
+S-2336,2011-10-30,I50.22,Chronic systolic (congestive) heart failure
+S-2339,2015-04-08,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2348,2012-05-11,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2349,2018-01-09,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2350,2012-04-19,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2350,2012-11-15,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2350,2019-04-29,I50.2,Systolic (congestive) heart failure
+S-2361,2016-06-01,I50.32,Chronic diastolic (congestive) heart failure
+S-2361,2017-01-19,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2361,2019-03-21,I50.20,Unspecified systolic (congestive) heart failure
+S-2361,2019-06-18,I50.31,Acute diastolic (congestive) heart failure
+S-2376,2018-01-13,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2376,2018-08-27,I50.2,Systolic (congestive) heart failure
+S-2376,2019-06-05,I97.131,Postprocedural heart failure following other surgery
+S-2376,2019-10-08,I50.30,Unspecified diastolic (congestive) heart failure
+S-2380,2016-12-14,I97.13,Postprocedural heart failure
+S-2381,2018-01-21,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2381,2018-05-23,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2381,2019-01-14,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2381,2019-09-21,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2388,2015-07-07,I50.30,Unspecified diastolic (congestive) heart failure
+S-2390,2014-12-02,I50.9,"Heart failure, unspecified"
+S-2404,2018-12-24,I50.30,Unspecified diastolic (congestive) heart failure
+S-2405,2010-11-12,I50.30,Unspecified diastolic (congestive) heart failure
+S-2405,2014-08-03,I50.3,Diastolic (congestive) heart failure
+S-2405,2019-07-27,I50.9,"Heart failure, unspecified"
+S-2405,2019-11-10,I50.0,Congestive heart failure
+S-2417,2019-09-06,I50.32,Chronic diastolic (congestive) heart failure
+S-2417,2019-12-26,I50.2,Systolic (congestive) heart failure
+S-2432,2018-02-04,I50.21,Acute systolic (congestive) heart failure
+S-2439,2018-03-28,I50.31,Acute diastolic (congestive) heart failure
+S-2461,2011-11-28,I97.131,Postprocedural heart failure following other surgery
+S-2461,2018-05-06,I50.1,Left ventricular failure
+S-2466,2013-08-22,I97.131,Postprocedural heart failure following other surgery
+S-2466,2014-04-26,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2474,2016-02-26,I97.13,Postprocedural heart failure
+S-2474,2019-03-21,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2474,2019-09-19,I97.13,Postprocedural heart failure
+S-2474,2019-11-17,I97.131,Postprocedural heart failure following other surgery
+S-2478,2011-03-07,I50.2,Systolic (congestive) heart failure
+S-2480,2011-08-28,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2485,2010-07-12,I97.131,Postprocedural heart failure following other surgery
+S-2489,2011-09-18,I50.32,Chronic diastolic (congestive) heart failure
+S-2490,2014-10-27,I97.131,Postprocedural heart failure following other surgery
+S-2495,2016-01-12,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-2498,2019-06-17,I50.0,Congestive heart failure
+S-2505,2016-11-10,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2508,2019-07-05,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2509,2016-07-01,I50.20,Unspecified systolic (congestive) heart failure
+S-2509,2016-08-03,I50.31,Acute diastolic (congestive) heart failure
+S-2509,2017-02-21,I50.21,Acute systolic (congestive) heart failure
+S-2509,2019-06-29,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2511,2012-09-13,I50.31,Acute diastolic (congestive) heart failure
+S-2512,2017-07-13,I50.21,Acute systolic (congestive) heart failure
+S-2512,2017-11-02,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-2512,2018-07-18,I50.2,Systolic (congestive) heart failure
+S-2512,2019-05-28,I97.130,Postprocedural heart failure following cardiac surgery
+S-2515,2011-08-14,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2519,2017-06-19,I50.20,Unspecified systolic (congestive) heart failure
+S-2519,2017-07-24,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2519,2019-01-18,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2523,2015-08-28,I97.13,Postprocedural heart failure
+S-2531,2014-01-02,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-2531,2017-04-18,I50.2,Systolic (congestive) heart failure
+S-2532,2010-11-05,I50.3,Diastolic (congestive) heart failure
+S-2533,2019-03-14,I97.130,Postprocedural heart failure following cardiac surgery
+S-2533,2019-04-13,I50.32,Chronic diastolic (congestive) heart failure
+S-2533,2019-11-22,I97.13,Postprocedural heart failure
+S-2535,2016-06-15,I50.21,Acute systolic (congestive) heart failure
+S-2535,2017-02-12,I50.0,Congestive heart failure
+S-2535,2019-09-24,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2544,2016-01-26,I50.20,Unspecified systolic (congestive) heart failure
+S-2544,2017-07-27,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2544,2019-07-24,I50.22,Chronic systolic (congestive) heart failure
+S-2544,2019-11-13,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2544,2019-11-22,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2544,2019-12-12,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2550,2014-07-18,I50.2,Systolic (congestive) heart failure
+S-2550,2017-11-20,I50.3,Diastolic (congestive) heart failure
+S-2550,2019-06-20,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2554,2015-01-16,I50.31,Acute diastolic (congestive) heart failure
+S-2554,2016-09-07,I50.22,Chronic systolic (congestive) heart failure
+S-2559,2011-08-18,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2559,2015-12-19,I97.131,Postprocedural heart failure following other surgery
+S-2566,2018-03-21,I97.131,Postprocedural heart failure following other surgery
+S-2572,2019-08-30,I50.0,Congestive heart failure
+S-2572,2019-09-05,I50.22,Chronic systolic (congestive) heart failure
+S-2572,2019-12-07,I97.130,Postprocedural heart failure following cardiac surgery
+S-2572,2019-12-15,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2577,2014-01-02,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2577,2018-03-12,I50.9,"Heart failure, unspecified"
+S-2579,2012-12-09,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2581,2011-03-31,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2584,2012-05-26,I97.130,Postprocedural heart failure following cardiac surgery
+S-2586,2015-03-05,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2586,2019-03-25,I50.3,Diastolic (congestive) heart failure
+S-2586,2019-09-10,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-2586,2019-11-04,I50.30,Unspecified diastolic (congestive) heart failure
+S-2586,2019-11-27,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2586,2019-12-15,I50.30,Unspecified diastolic (congestive) heart failure
+S-2586,2019-12-17,I50.31,Acute diastolic (congestive) heart failure
+S-2586,2019-12-19,I50.21,Acute systolic (congestive) heart failure
+S-2595,2016-08-17,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2596,2012-01-18,I50.22,Chronic systolic (congestive) heart failure
+S-2600,2010-04-12,I50.0,Congestive heart failure
+S-2600,2010-07-18,I50.2,Systolic (congestive) heart failure
+S-2600,2010-12-26,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2600,2011-03-29,I97.13,Postprocedural heart failure
+S-2609,2012-12-22,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2614,2011-04-29,I50.21,Acute systolic (congestive) heart failure
+S-2625,2012-10-22,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2633,2019-06-17,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2633,2019-07-10,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2635,2013-12-15,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2644,2012-12-19,I50.20,Unspecified systolic (congestive) heart failure
+S-2644,2015-06-13,I50.30,Unspecified diastolic (congestive) heart failure
+S-2649,2012-06-09,I50.3,Diastolic (congestive) heart failure
+S-2652,2012-06-11,I97.130,Postprocedural heart failure following cardiac surgery
+S-2664,2010-02-05,I97.131,Postprocedural heart failure following other surgery
+S-2670,2012-08-04,I50.30,Unspecified diastolic (congestive) heart failure
+S-2671,2017-04-04,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2673,2015-11-11,I50.20,Unspecified systolic (congestive) heart failure
+S-2673,2016-03-14,I97.130,Postprocedural heart failure following cardiac surgery
+S-2678,2019-02-27,I50.0,Congestive heart failure
+S-2679,2019-01-26,I50.30,Unspecified diastolic (congestive) heart failure
+S-2680,2012-09-02,I50.20,Unspecified systolic (congestive) heart failure
+S-2685,2015-06-08,I50.22,Chronic systolic (congestive) heart failure
+S-2685,2018-03-10,I50.21,Acute systolic (congestive) heart failure
+S-2685,2019-11-08,I97.131,Postprocedural heart failure following other surgery
+S-2685,2019-11-11,I50.3,Diastolic (congestive) heart failure
+S-2688,2015-12-27,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2688,2016-05-15,I50.22,Chronic systolic (congestive) heart failure
+S-2691,2012-11-06,I50.1,Left ventricular failure
+S-2700,2014-05-13,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2705,2011-10-29,I50.9,"Heart failure, unspecified"
+S-2711,2016-09-24,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2717,2018-11-24,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2719,2019-07-15,I50.1,Left ventricular failure
+S-2721,2015-11-24,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2730,2013-09-20,I50.31,Acute diastolic (congestive) heart failure
+S-2735,2010-05-10,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2738,2010-02-24,I97.130,Postprocedural heart failure following cardiac surgery
+S-2738,2010-03-05,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2738,2019-01-24,I50.9,"Heart failure, unspecified"
+S-2738,2019-08-21,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2738,2019-12-16,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2738,2019-12-24,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-2740,2011-11-03,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2752,2010-02-24,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2754,2017-01-11,I50.20,Unspecified systolic (congestive) heart failure
+S-2760,2019-09-15,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2760,2019-11-28,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2763,2012-12-18,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2763,2015-11-24,I50.30,Unspecified diastolic (congestive) heart failure
+S-2766,2018-06-16,I50.1,Left ventricular failure
+S-2766,2018-10-21,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2766,2019-03-25,I97.13,Postprocedural heart failure
+S-2766,2019-08-30,I50.9,"Heart failure, unspecified"
+S-2766,2019-12-20,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-2782,2010-05-29,I50.30,Unspecified diastolic (congestive) heart failure
+S-2787,2013-08-11,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2788,2018-04-02,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2788,2018-09-06,I97.130,Postprocedural heart failure following cardiac surgery
+S-2789,2018-11-21,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2797,2012-08-18,I50.32,Chronic diastolic (congestive) heart failure
+S-2797,2013-01-06,I50.9,"Heart failure, unspecified"
+S-2797,2015-10-16,I50.30,Unspecified diastolic (congestive) heart failure
+S-2801,2015-01-23,I50.22,Chronic systolic (congestive) heart failure
+S-2801,2016-08-22,I50.9,"Heart failure, unspecified"
+S-2804,2019-11-16,I50.0,Congestive heart failure
+S-2806,2015-05-30,I50.32,Chronic diastolic (congestive) heart failure
+S-2808,2017-01-07,I50.3,Diastolic (congestive) heart failure
+S-2812,2013-06-24,I50.21,Acute systolic (congestive) heart failure
+S-2816,2019-06-16,I97.13,Postprocedural heart failure
+S-2816,2019-11-03,I97.131,Postprocedural heart failure following other surgery
+S-2816,2019-12-14,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2816,2019-12-30,I50.9,"Heart failure, unspecified"
+S-2822,2014-08-15,I97.131,Postprocedural heart failure following other surgery
+S-2831,2015-01-06,I50.22,Chronic systolic (congestive) heart failure
+S-2838,2015-12-16,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-2838,2016-05-06,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2838,2019-09-20,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-2842,2010-07-25,I50.3,Diastolic (congestive) heart failure
+S-2842,2013-01-24,I50.2,Systolic (congestive) heart failure
+S-2844,2015-08-22,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-2849,2019-09-19,I50.9,"Heart failure, unspecified"
+S-2849,2019-12-10,I50.21,Acute systolic (congestive) heart failure
+S-2855,2016-05-18,I50.3,Diastolic (congestive) heart failure
+S-2861,2015-02-23,I50.0,Congestive heart failure
+S-2861,2017-04-17,I97.13,Postprocedural heart failure
+S-2862,2015-05-17,I50.1,Left ventricular failure
+S-2869,2016-03-02,I50.0,Congestive heart failure
+S-2877,2012-09-21,I97.130,Postprocedural heart failure following cardiac surgery
+S-2881,2016-06-17,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2882,2015-01-23,I97.130,Postprocedural heart failure following cardiac surgery
+S-2885,2010-10-02,I50.32,Chronic diastolic (congestive) heart failure
+S-2885,2013-10-13,I50.1,Left ventricular failure
+S-2885,2019-11-09,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-2885,2019-11-25,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2885,2019-12-15,I50.30,Unspecified diastolic (congestive) heart failure
+S-2885,2019-12-29,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2900,2015-09-08,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2902,2013-12-06,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2910,2010-05-13,I50.0,Congestive heart failure
+S-2910,2012-03-21,I50.3,Diastolic (congestive) heart failure
+S-2910,2012-04-26,I50.0,Congestive heart failure
+S-2911,2019-11-28,I97.130,Postprocedural heart failure following cardiac surgery
+S-2912,2012-11-05,I50.20,Unspecified systolic (congestive) heart failure
+S-2920,2010-12-05,I50.9,"Heart failure, unspecified"
+S-2921,2015-06-16,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-2922,2014-05-10,I50.20,Unspecified systolic (congestive) heart failure
+S-2926,2010-11-26,I50.30,Unspecified diastolic (congestive) heart failure
+S-2926,2013-08-06,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2926,2014-11-01,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2930,2018-07-02,I50.2,Systolic (congestive) heart failure
+S-2930,2019-04-04,I97.13,Postprocedural heart failure
+S-2934,2017-06-08,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-2934,2017-12-27,I50.32,Chronic diastolic (congestive) heart failure
+S-2936,2019-09-09,I50.30,Unspecified diastolic (congestive) heart failure
+S-2937,2010-02-01,I50.21,Acute systolic (congestive) heart failure
+S-2942,2011-09-07,I50.20,Unspecified systolic (congestive) heart failure
+S-2950,2013-11-09,I50.2,Systolic (congestive) heart failure
+S-2952,2017-12-27,I50.2,Systolic (congestive) heart failure
+S-2952,2018-10-07,I50.22,Chronic systolic (congestive) heart failure
+S-2962,2019-04-07,I97.131,Postprocedural heart failure following other surgery
+S-2962,2019-06-03,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2963,2017-02-15,I50.3,Diastolic (congestive) heart failure
+S-2973,2014-08-17,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2973,2018-09-24,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2974,2011-02-01,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2974,2013-12-13,I50.31,Acute diastolic (congestive) heart failure
+S-2974,2017-06-30,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2974,2018-11-17,I50.1,Left ventricular failure
+S-2974,2019-09-29,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-2974,2019-10-18,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2974,2019-11-16,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2976,2015-01-19,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-2976,2015-08-28,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2976,2018-02-10,I50.3,Diastolic (congestive) heart failure
+S-2977,2012-06-15,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-2985,2014-12-13,I50.23,Acute on chronic systolic (congestive) heart failure
+S-2985,2018-04-13,I97.131,Postprocedural heart failure following other surgery
+S-2985,2019-05-02,I97.131,Postprocedural heart failure following other surgery
+S-2996,2018-03-02,I97.130,Postprocedural heart failure following cardiac surgery
+S-2996,2019-08-28,I50.0,Congestive heart failure
+S-2996,2019-12-18,I50.31,Acute diastolic (congestive) heart failure
+S-2996,2019-12-18,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-2998,2019-03-06,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-2999,2010-02-16,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3002,2017-08-21,I50.30,Unspecified diastolic (congestive) heart failure
+S-3002,2018-01-04,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3004,2010-12-17,I97.13,Postprocedural heart failure
+S-3004,2011-02-21,I50.9,"Heart failure, unspecified"
+S-3007,2019-02-11,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3017,2016-07-23,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3020,2016-04-08,I50.3,Diastolic (congestive) heart failure
+S-3026,2019-03-30,I97.130,Postprocedural heart failure following cardiac surgery
+S-3026,2019-11-27,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3026,2019-12-27,I50.30,Unspecified diastolic (congestive) heart failure
+S-3026,2019-12-27,I50.1,Left ventricular failure
+S-3038,2012-08-20,I50.22,Chronic systolic (congestive) heart failure
+S-3041,2014-10-24,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3046,2019-01-31,I50.20,Unspecified systolic (congestive) heart failure
+S-3055,2010-11-16,I50.30,Unspecified diastolic (congestive) heart failure
+S-3060,2015-06-09,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3068,2012-11-27,I50.20,Unspecified systolic (congestive) heart failure
+S-3068,2015-09-11,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3068,2016-06-21,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3068,2017-08-27,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3068,2019-07-10,I50.32,Chronic diastolic (congestive) heart failure
+S-3068,2019-07-24,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3070,2018-02-17,I50.31,Acute diastolic (congestive) heart failure
+S-3074,2015-11-03,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3074,2019-03-29,I97.13,Postprocedural heart failure
+S-3076,2018-12-31,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3076,2019-07-26,I50.1,Left ventricular failure
+S-3076,2019-10-04,I50.32,Chronic diastolic (congestive) heart failure
+S-3076,2019-12-29,I97.130,Postprocedural heart failure following cardiac surgery
+S-3076,2019-12-30,I50.30,Unspecified diastolic (congestive) heart failure
+S-3079,2018-01-31,I50.32,Chronic diastolic (congestive) heart failure
+S-3079,2018-02-16,I50.2,Systolic (congestive) heart failure
+S-3079,2018-05-04,I50.2,Systolic (congestive) heart failure
+S-3079,2019-08-26,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3085,2011-04-18,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3087,2013-04-05,I50.32,Chronic diastolic (congestive) heart failure
+S-3087,2015-04-17,I50.1,Left ventricular failure
+S-3087,2016-03-28,I50.22,Chronic systolic (congestive) heart failure
+S-3087,2017-09-06,I97.131,Postprocedural heart failure following other surgery
+S-3088,2013-07-01,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3088,2018-03-19,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3089,2017-09-18,I50.22,Chronic systolic (congestive) heart failure
+S-3089,2018-04-15,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3089,2019-03-01,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3089,2019-08-13,I50.22,Chronic systolic (congestive) heart failure
+S-3091,2010-05-06,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3091,2011-11-12,I50.21,Acute systolic (congestive) heart failure
+S-3096,2014-06-02,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3096,2017-08-13,I50.2,Systolic (congestive) heart failure
+S-3096,2018-04-07,I97.130,Postprocedural heart failure following cardiac surgery
+S-3096,2019-08-29,I50.32,Chronic diastolic (congestive) heart failure
+S-3096,2019-09-24,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3097,2014-08-09,I50.21,Acute systolic (congestive) heart failure
+S-3097,2015-07-15,I50.21,Acute systolic (congestive) heart failure
+S-3097,2016-09-21,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3113,2013-12-22,I50.32,Chronic diastolic (congestive) heart failure
+S-3116,2016-06-28,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3122,2011-01-31,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3122,2014-09-01,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3124,2015-06-05,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3124,2016-05-28,I50.31,Acute diastolic (congestive) heart failure
+S-3124,2017-02-07,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3127,2015-04-04,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3127,2019-11-24,I50.0,Congestive heart failure
+S-3127,2019-11-24,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3128,2010-01-14,I97.13,Postprocedural heart failure
+S-3129,2010-06-04,I50.9,"Heart failure, unspecified"
+S-3130,2017-10-10,I50.21,Acute systolic (congestive) heart failure
+S-3134,2015-01-05,I97.130,Postprocedural heart failure following cardiac surgery
+S-3136,2012-07-01,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3140,2019-11-04,I50.9,"Heart failure, unspecified"
+S-3140,2019-12-04,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3142,2011-12-25,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3142,2012-04-22,I97.130,Postprocedural heart failure following cardiac surgery
+S-3142,2014-10-11,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3146,2014-02-05,I50.22,Chronic systolic (congestive) heart failure
+S-3155,2016-06-14,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3155,2016-06-16,I97.131,Postprocedural heart failure following other surgery
+S-3159,2013-03-09,I97.13,Postprocedural heart failure
+S-3159,2015-11-22,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3164,2019-10-09,I50.0,Congestive heart failure
+S-3170,2013-04-03,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3174,2015-07-02,I50.30,Unspecified diastolic (congestive) heart failure
+S-3179,2016-09-14,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3179,2017-07-31,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3188,2018-10-19,I97.130,Postprocedural heart failure following cardiac surgery
+S-3190,2010-05-04,I50.20,Unspecified systolic (congestive) heart failure
+S-3202,2010-03-02,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3202,2019-10-08,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3202,2019-12-08,I50.31,Acute diastolic (congestive) heart failure
+S-3202,2019-12-27,I50.32,Chronic diastolic (congestive) heart failure
+S-3205,2010-08-27,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3205,2018-04-18,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3206,2016-12-10,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3206,2017-07-02,I97.130,Postprocedural heart failure following cardiac surgery
+S-3206,2019-07-15,I50.2,Systolic (congestive) heart failure
+S-3213,2011-06-24,I50.30,Unspecified diastolic (congestive) heart failure
+S-3214,2013-03-12,I97.131,Postprocedural heart failure following other surgery
+S-3218,2018-11-07,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3218,2019-11-06,I50.30,Unspecified diastolic (congestive) heart failure
+S-3218,2019-11-23,I50.9,"Heart failure, unspecified"
+S-3218,2019-12-02,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3218,2019-12-02,I50.9,"Heart failure, unspecified"
+S-3220,2018-07-14,I50.32,Chronic diastolic (congestive) heart failure
+S-3222,2018-09-07,I50.21,Acute systolic (congestive) heart failure
+S-3222,2019-10-15,I50.0,Congestive heart failure
+S-3234,2014-08-05,I50.22,Chronic systolic (congestive) heart failure
+S-3234,2016-06-17,I50.20,Unspecified systolic (congestive) heart failure
+S-3234,2019-06-10,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3239,2015-11-04,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3240,2019-11-30,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3240,2019-12-11,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3240,2019-12-14,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3242,2015-08-09,I97.130,Postprocedural heart failure following cardiac surgery
+S-3244,2013-03-01,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3244,2014-12-11,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3245,2017-06-26,I97.130,Postprocedural heart failure following cardiac surgery
+S-3248,2019-07-01,I50.22,Chronic systolic (congestive) heart failure
+S-3248,2019-09-14,I97.131,Postprocedural heart failure following other surgery
+S-3248,2019-10-10,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3251,2011-11-09,I50.9,"Heart failure, unspecified"
+S-3258,2011-01-10,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3264,2018-07-23,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3264,2019-08-28,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3264,2019-10-22,I50.20,Unspecified systolic (congestive) heart failure
+S-3264,2019-12-23,I97.13,Postprocedural heart failure
+S-3264,2019-12-30,I50.2,Systolic (congestive) heart failure
+S-3264,2019-12-30,I50.20,Unspecified systolic (congestive) heart failure
+S-3270,2016-07-20,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3270,2016-08-29,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3270,2018-06-25,I50.0,Congestive heart failure
+S-3270,2018-09-14,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3281,2010-02-01,I50.1,Left ventricular failure
+S-3283,2011-08-27,I50.20,Unspecified systolic (congestive) heart failure
+S-3283,2019-07-18,I97.130,Postprocedural heart failure following cardiac surgery
+S-3283,2019-12-13,I50.9,"Heart failure, unspecified"
+S-3285,2013-12-13,I50.32,Chronic diastolic (congestive) heart failure
+S-3285,2014-08-01,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3285,2019-01-04,I50.21,Acute systolic (congestive) heart failure
+S-3291,2017-12-23,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3291,2018-12-03,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3300,2019-03-24,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3300,2019-10-17,I97.131,Postprocedural heart failure following other surgery
+S-3300,2019-12-03,I50.3,Diastolic (congestive) heart failure
+S-3303,2016-07-01,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3303,2018-06-09,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3303,2019-10-07,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3303,2019-12-10,I50.31,Acute diastolic (congestive) heart failure
+S-3303,2019-12-10,I97.13,Postprocedural heart failure
+S-3303,2019-12-25,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3303,2019-12-25,I97.13,Postprocedural heart failure
+S-3308,2013-09-22,I50.0,Congestive heart failure
+S-3309,2011-06-14,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3315,2013-07-20,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3322,2015-08-06,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3328,2016-07-09,I97.130,Postprocedural heart failure following cardiac surgery
+S-3333,2018-04-15,I97.131,Postprocedural heart failure following other surgery
+S-3335,2018-12-16,I50.2,Systolic (congestive) heart failure
+S-3336,2018-11-09,I50.30,Unspecified diastolic (congestive) heart failure
+S-3340,2018-06-05,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3340,2019-03-21,I97.130,Postprocedural heart failure following cardiac surgery
+S-3340,2019-04-01,I50.31,Acute diastolic (congestive) heart failure
+S-3340,2019-08-28,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3345,2015-10-10,I50.20,Unspecified systolic (congestive) heart failure
+S-3348,2018-02-07,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3348,2019-06-23,I50.9,"Heart failure, unspecified"
+S-3350,2012-02-22,I50.22,Chronic systolic (congestive) heart failure
+S-3353,2011-11-29,I50.0,Congestive heart failure
+S-3353,2017-09-13,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3358,2018-07-27,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3363,2016-05-13,I50.32,Chronic diastolic (congestive) heart failure
+S-3363,2019-06-13,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3375,2017-12-03,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3375,2019-06-12,I50.32,Chronic diastolic (congestive) heart failure
+S-3380,2014-10-01,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3380,2016-12-13,I50.3,Diastolic (congestive) heart failure
+S-3380,2017-12-06,I97.13,Postprocedural heart failure
+S-3380,2019-01-02,I50.31,Acute diastolic (congestive) heart failure
+S-3394,2015-04-16,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3399,2014-11-03,I50.31,Acute diastolic (congestive) heart failure
+S-3399,2019-06-29,I97.13,Postprocedural heart failure
+S-3400,2014-06-11,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3403,2011-02-19,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3405,2017-08-16,I50.22,Chronic systolic (congestive) heart failure
+S-3406,2011-03-22,I50.21,Acute systolic (congestive) heart failure
+S-3406,2016-02-14,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3406,2018-06-05,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3406,2019-08-07,I50.1,Left ventricular failure
+S-3406,2019-10-24,I50.30,Unspecified diastolic (congestive) heart failure
+S-3413,2013-05-18,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3413,2016-12-04,I50.22,Chronic systolic (congestive) heart failure
+S-3413,2017-05-25,I50.9,"Heart failure, unspecified"
+S-3413,2019-09-29,I50.31,Acute diastolic (congestive) heart failure
+S-3416,2011-09-07,I50.30,Unspecified diastolic (congestive) heart failure
+S-3420,2013-05-20,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3422,2012-10-26,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3422,2016-04-13,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3424,2012-01-11,I50.21,Acute systolic (congestive) heart failure
+S-3427,2010-11-20,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3427,2012-02-21,I50.22,Chronic systolic (congestive) heart failure
+S-3427,2019-05-06,I50.3,Diastolic (congestive) heart failure
+S-3429,2017-12-31,I50.2,Systolic (congestive) heart failure
+S-3429,2019-06-15,I50.0,Congestive heart failure
+S-3431,2016-04-01,I50.20,Unspecified systolic (congestive) heart failure
+S-3431,2019-04-14,I50.31,Acute diastolic (congestive) heart failure
+S-3431,2019-06-19,I50.0,Congestive heart failure
+S-3433,2014-06-09,I50.1,Left ventricular failure
+S-3433,2017-02-19,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3433,2019-01-04,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3437,2012-03-21,I50.20,Unspecified systolic (congestive) heart failure
+S-3437,2014-06-23,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3437,2018-09-20,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3437,2019-06-12,I50.3,Diastolic (congestive) heart failure
+S-3437,2019-08-14,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3439,2010-09-10,I50.21,Acute systolic (congestive) heart failure
+S-3441,2012-09-21,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3441,2016-01-05,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3448,2014-09-04,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3448,2015-08-22,I50.1,Left ventricular failure
+S-3448,2015-09-22,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3448,2018-06-12,I97.13,Postprocedural heart failure
+S-3450,2014-04-12,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3456,2017-03-09,I97.13,Postprocedural heart failure
+S-3460,2019-12-15,I50.0,Congestive heart failure
+S-3460,2019-12-20,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3466,2016-09-14,I97.130,Postprocedural heart failure following cardiac surgery
+S-3466,2018-07-10,I50.31,Acute diastolic (congestive) heart failure
+S-3470,2016-03-19,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3470,2019-03-28,I50.1,Left ventricular failure
+S-3478,2017-10-11,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3479,2010-05-19,I50.0,Congestive heart failure
+S-3495,2010-05-13,I97.13,Postprocedural heart failure
+S-3495,2013-07-14,I50.2,Systolic (congestive) heart failure
+S-3495,2019-07-27,I50.31,Acute diastolic (congestive) heart failure
+S-3495,2019-08-12,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3503,2018-11-08,I50.20,Unspecified systolic (congestive) heart failure
+S-3505,2010-05-15,I50.0,Congestive heart failure
+S-3505,2010-11-05,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3505,2016-08-31,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3508,2018-04-01,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3508,2018-06-15,I50.30,Unspecified diastolic (congestive) heart failure
+S-3508,2019-12-23,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3508,2019-12-24,I50.21,Acute systolic (congestive) heart failure
+S-3509,2014-08-20,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3514,2016-01-24,I97.131,Postprocedural heart failure following other surgery
+S-3517,2014-03-02,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3518,2011-03-05,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3525,2014-10-01,I50.31,Acute diastolic (congestive) heart failure
+S-3525,2016-07-11,I50.22,Chronic systolic (congestive) heart failure
+S-3525,2018-11-08,I50.3,Diastolic (congestive) heart failure
+S-3525,2019-06-27,I50.21,Acute systolic (congestive) heart failure
+S-3527,2011-12-08,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3530,2018-03-02,I50.32,Chronic diastolic (congestive) heart failure
+S-3535,2017-05-22,I50.0,Congestive heart failure
+S-3536,2014-08-13,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3536,2015-02-02,I50.21,Acute systolic (congestive) heart failure
+S-3537,2012-08-31,I50.20,Unspecified systolic (congestive) heart failure
+S-3537,2014-06-06,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3537,2019-05-29,I50.30,Unspecified diastolic (congestive) heart failure
+S-3548,2010-10-23,I50.22,Chronic systolic (congestive) heart failure
+S-3548,2014-11-04,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3548,2015-08-06,I50.32,Chronic diastolic (congestive) heart failure
+S-3548,2019-03-17,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3555,2019-08-07,I50.22,Chronic systolic (congestive) heart failure
+S-3556,2017-09-07,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3556,2018-11-28,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3560,2012-09-18,I50.2,Systolic (congestive) heart failure
+S-3564,2016-10-23,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3566,2015-11-24,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3571,2014-07-10,I97.13,Postprocedural heart failure
+S-3572,2013-12-10,I50.31,Acute diastolic (congestive) heart failure
+S-3572,2018-11-10,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3572,2019-10-07,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3575,2019-07-10,I50.0,Congestive heart failure
+S-3582,2017-08-16,I97.131,Postprocedural heart failure following other surgery
+S-3585,2015-02-16,I97.131,Postprocedural heart failure following other surgery
+S-3585,2016-01-09,I50.30,Unspecified diastolic (congestive) heart failure
+S-3588,2019-09-11,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3589,2014-05-03,I50.22,Chronic systolic (congestive) heart failure
+S-3589,2017-04-06,I50.32,Chronic diastolic (congestive) heart failure
+S-3592,2018-03-09,I50.31,Acute diastolic (congestive) heart failure
+S-3595,2011-08-11,I97.13,Postprocedural heart failure
+S-3595,2014-10-02,I50.22,Chronic systolic (congestive) heart failure
+S-3596,2014-11-29,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3597,2016-04-27,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3597,2016-06-13,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3598,2015-10-08,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3598,2018-04-28,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3600,2013-08-16,I50.21,Acute systolic (congestive) heart failure
+S-3600,2016-05-25,I50.9,"Heart failure, unspecified"
+S-3600,2019-01-16,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3602,2014-03-02,I50.22,Chronic systolic (congestive) heart failure
+S-3602,2014-04-18,I50.32,Chronic diastolic (congestive) heart failure
+S-3605,2012-07-28,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3606,2016-06-27,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3606,2017-06-03,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3609,2019-11-17,I50.3,Diastolic (congestive) heart failure
+S-3610,2018-04-11,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3613,2011-06-25,I97.130,Postprocedural heart failure following cardiac surgery
+S-3613,2014-07-18,I50.9,"Heart failure, unspecified"
+S-3615,2011-10-31,I50.20,Unspecified systolic (congestive) heart failure
+S-3615,2013-09-05,I50.9,"Heart failure, unspecified"
+S-3638,2019-08-09,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3641,2011-12-06,I97.131,Postprocedural heart failure following other surgery
+S-3645,2012-04-13,I50.30,Unspecified diastolic (congestive) heart failure
+S-3647,2014-02-22,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3647,2018-03-12,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3647,2019-02-14,I50.20,Unspecified systolic (congestive) heart failure
+S-3651,2010-05-25,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3658,2010-11-11,I50.0,Congestive heart failure
+S-3659,2016-04-24,I50.9,"Heart failure, unspecified"
+S-3661,2010-02-13,I50.21,Acute systolic (congestive) heart failure
+S-3662,2018-10-09,I50.3,Diastolic (congestive) heart failure
+S-3664,2015-06-04,I50.22,Chronic systolic (congestive) heart failure
+S-3664,2019-01-02,I50.20,Unspecified systolic (congestive) heart failure
+S-3664,2019-01-05,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3664,2019-09-25,I97.131,Postprocedural heart failure following other surgery
+S-3671,2013-11-11,I50.22,Chronic systolic (congestive) heart failure
+S-3680,2011-01-15,I50.21,Acute systolic (congestive) heart failure
+S-3687,2019-01-05,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3696,2010-07-01,I97.13,Postprocedural heart failure
+S-3701,2012-01-29,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3710,2015-08-05,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3717,2017-06-19,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3718,2012-06-15,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3725,2014-05-09,I50.1,Left ventricular failure
+S-3725,2019-11-17,I50.9,"Heart failure, unspecified"
+S-3732,2017-03-11,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3732,2019-12-24,I50.2,Systolic (congestive) heart failure
+S-3732,2019-12-27,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3732,2019-12-28,I50.2,Systolic (congestive) heart failure
+S-3732,2019-12-30,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3732,2019-12-30,I97.130,Postprocedural heart failure following cardiac surgery
+S-3732,2019-12-30,I97.131,Postprocedural heart failure following other surgery
+S-3739,2016-02-20,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3757,2010-08-27,I50.32,Chronic diastolic (congestive) heart failure
+S-3765,2013-08-30,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3765,2013-12-03,I50.0,Congestive heart failure
+S-3765,2015-04-23,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3769,2016-06-30,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3769,2016-11-15,I50.32,Chronic diastolic (congestive) heart failure
+S-3770,2014-08-29,I97.131,Postprocedural heart failure following other surgery
+S-3770,2016-11-11,I50.9,"Heart failure, unspecified"
+S-3770,2019-01-03,I50.32,Chronic diastolic (congestive) heart failure
+S-3770,2019-11-20,I97.131,Postprocedural heart failure following other surgery
+S-3770,2019-11-24,I97.130,Postprocedural heart failure following cardiac surgery
+S-3771,2011-09-09,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3772,2013-08-11,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3775,2010-02-26,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3779,2016-04-09,I50.3,Diastolic (congestive) heart failure
+S-3789,2016-07-22,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3794,2015-03-19,I50.20,Unspecified systolic (congestive) heart failure
+S-3794,2016-11-28,I97.130,Postprocedural heart failure following cardiac surgery
+S-3794,2017-11-04,I50.1,Left ventricular failure
+S-3794,2019-12-17,I50.0,Congestive heart failure
+S-3795,2016-06-21,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3795,2019-10-27,I50.3,Diastolic (congestive) heart failure
+S-3799,2013-07-27,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3800,2016-03-11,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3800,2017-01-27,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3804,2015-02-21,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3806,2013-09-01,I97.13,Postprocedural heart failure
+S-3822,2013-08-06,I97.13,Postprocedural heart failure
+S-3822,2013-11-06,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3822,2019-12-16,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3823,2017-09-03,I50.20,Unspecified systolic (congestive) heart failure
+S-3823,2019-11-24,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3823,2019-12-28,I50.3,Diastolic (congestive) heart failure
+S-3823,2019-12-30,I50.30,Unspecified diastolic (congestive) heart failure
+S-3823,2019-12-30,I50.31,Acute diastolic (congestive) heart failure
+S-3823,2019-12-30,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3831,2013-12-20,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3831,2016-05-20,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3831,2019-05-10,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3831,2019-09-20,I50.1,Left ventricular failure
+S-3831,2019-12-06,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3831,2019-12-16,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3831,2019-12-25,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3845,2016-05-22,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-3845,2017-02-28,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3849,2017-05-31,I50.9,"Heart failure, unspecified"
+S-3854,2014-08-31,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3854,2019-09-29,I50.20,Unspecified systolic (congestive) heart failure
+S-3854,2019-11-18,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3856,2015-04-18,I50.21,Acute systolic (congestive) heart failure
+S-3859,2013-01-23,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3860,2012-05-23,I50.9,"Heart failure, unspecified"
+S-3860,2015-01-16,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-3860,2017-07-03,I50.3,Diastolic (congestive) heart failure
+S-3860,2018-11-17,I50.21,Acute systolic (congestive) heart failure
+S-3861,2018-01-28,I97.131,Postprocedural heart failure following other surgery
+S-3883,2012-09-13,I50.22,Chronic systolic (congestive) heart failure
+S-3889,2013-07-28,I97.130,Postprocedural heart failure following cardiac surgery
+S-3889,2014-01-31,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3889,2019-04-01,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3889,2019-07-31,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3896,2011-01-01,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3896,2017-11-04,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3902,2012-11-27,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3905,2013-07-31,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3905,2019-03-11,I50.21,Acute systolic (congestive) heart failure
+S-3905,2019-11-09,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3926,2011-12-15,I50.32,Chronic diastolic (congestive) heart failure
+S-3926,2013-11-12,I50.32,Chronic diastolic (congestive) heart failure
+S-3926,2015-11-24,I50.9,"Heart failure, unspecified"
+S-3926,2017-10-27,I50.1,Left ventricular failure
+S-3926,2019-11-16,I50.22,Chronic systolic (congestive) heart failure
+S-3926,2019-12-17,I50.23,Acute on chronic systolic (congestive) heart failure
+S-3926,2019-12-29,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3937,2018-07-09,I50.3,Diastolic (congestive) heart failure
+S-3944,2018-02-24,I50.20,Unspecified systolic (congestive) heart failure
+S-3948,2013-06-11,I50.21,Acute systolic (congestive) heart failure
+S-3948,2014-12-15,I50.21,Acute systolic (congestive) heart failure
+S-3953,2019-07-17,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3953,2019-08-21,I50.31,Acute diastolic (congestive) heart failure
+S-3955,2012-11-09,I50.2,Systolic (congestive) heart failure
+S-3958,2017-12-04,I50.2,Systolic (congestive) heart failure
+S-3958,2019-10-14,I50.3,Diastolic (congestive) heart failure
+S-3958,2019-12-26,I50.20,Unspecified systolic (congestive) heart failure
+S-3958,2019-12-29,I97.131,Postprocedural heart failure following other surgery
+S-3958,2019-12-30,I50.3,Diastolic (congestive) heart failure
+S-3958,2019-12-30,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+S-3958,2019-12-30,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3966,2016-04-01,I50.3,Diastolic (congestive) heart failure
+S-3966,2018-05-27,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3966,2019-08-09,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-3968,2018-12-12,I50.30,Unspecified diastolic (congestive) heart failure
+S-3979,2018-07-19,I97.130,Postprocedural heart failure following cardiac surgery
+S-3981,2019-01-28,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-3992,2011-11-01,I50.1,Left ventricular failure
+S-3992,2019-04-22,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-3992,2019-11-25,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3992,2019-12-29,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-3992,2019-12-29,I97.131,Postprocedural heart failure following other surgery
+S-3995,2019-07-28,I50.3,Diastolic (congestive) heart failure
+S-3995,2019-08-19,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+S-3995,2019-12-19,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3995,2019-12-24,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-3995,2019-12-26,I97.131,Postprocedural heart failure following other surgery
+S-4001,2015-03-21,I50.0,Congestive heart failure
+S-4004,2010-11-17,I50.22,Chronic systolic (congestive) heart failure
+S-4004,2019-04-17,I50.3,Diastolic (congestive) heart failure
+S-4004,2019-10-13,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-4004,2019-12-13,I50.1,Left ventricular failure
+S-4006,2015-04-29,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-4010,2013-08-07,I50.9,"Heart failure, unspecified"
+S-4010,2014-08-22,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-4010,2017-01-29,I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure
+S-4010,2019-05-29,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-4010,2019-09-30,I50.31,Acute diastolic (congestive) heart failure
+S-4019,2019-02-24,I50.22,Chronic systolic (congestive) heart failure
+S-4022,2013-08-21,I50.3,Diastolic (congestive) heart failure
+S-4027,2016-06-19,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure
+S-4028,2015-03-02,I97.130,Postprocedural heart failure following cardiac surgery
+S-4028,2015-08-31,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-4028,2016-10-24,I50.20,Unspecified systolic (congestive) heart failure
+S-4041,2011-06-17,I97.13,Postprocedural heart failure
+S-4044,2013-11-14,I97.131,Postprocedural heart failure following other surgery
+S-4048,2016-09-19,I97.131,Postprocedural heart failure following other surgery
+S-4049,2012-05-20,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+S-4049,2019-05-14,I50.22,Chronic systolic (congestive) heart failure
+S-4049,2019-11-05,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-4049,2019-11-13,I50.23,Acute on chronic systolic (congestive) heart failure
+S-4053,2012-04-22,I50.9,"Heart failure, unspecified"
+S-4053,2015-03-20,I50.0,Congestive heart failure
+S-4053,2017-09-23,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-4053,2019-05-07,I50.1,Left ventricular failure
+S-4056,2017-02-07,I50.20,Unspecified systolic (congestive) heart failure
+S-4057,2017-09-20,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+S-4057,2019-06-19,I50.3,Diastolic (congestive) heart failure
+S-4059,2018-06-16,I97.130,Postprocedural heart failure following cardiac surgery
+S-4059,2018-10-28,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-4072,2019-03-21,I50.33,Acute on chronic diastolic (congestive) heart failure
+S-4072,2019-06-23,I50.20,Unspecified systolic (congestive) heart failure
+S-4073,2014-11-29,I11.0,Hypertensive heart disease with (congestive) heart failure
+S-4073,2018-06-10,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-4073,2019-02-06,I50.32,Chronic diastolic (congestive) heart failure
+S-4073,2019-03-19,I97.13,Postprocedural heart failure
+S-4073,2019-12-05,I50.32,Chronic diastolic (congestive) heart failure
+S-4075,2014-09-30,I50.20,Unspecified systolic (congestive) heart failure
+S-4075,2016-01-14,I50.0,Congestive heart failure
+S-4088,2015-12-29,I50.21,Acute systolic (congestive) heart failure
+S-4093,2014-11-09,I50.30,Unspecified diastolic (congestive) heart failure
+S-4093,2019-07-06,I09.81,Heart failure rheumatic (chronic) (inactive) (with chorea)
+S-4093,2019-08-01,I50.21,Acute systolic (congestive) heart failure
