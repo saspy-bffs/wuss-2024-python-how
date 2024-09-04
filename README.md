@@ -8,13 +8,17 @@
 
 Materials provided:
 
-  - [Examples and Exercises](https://colab.research.google.com/drive/[INSERT NOTEBOOK ID HERE]#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
+  - [Examples and Exercises](https://colab.research.google.com/drive/1zLxYlvGe0-BeEzyuR71e7xS12ZCB0N-9#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
+
+<!--
 
   - [Solutions to all Exercises](https://colab.research.google.com/drive/[INSERT NOTEBOOK ID HERE]#offline=true&sandboxMode=true) as an interactive Google Colab Notebook
 
   - [Solutions to all Exercises](solutions/[INSERT FILENAME HERE]) as a PDF file
 
-  - [Slides](slides/Slides-Python_HOW-WUSS2024.pdf) as a PDF file    
+-->
+
+  - [Slides](slides/Slides-Python_HOW-WUSS2024.pdf) as a PDF file  
 
   - [Mock Analysis Request Form](slides/Mock_Request_Form-Python_HOW-WUSS2024.pdf) as a PDF file      
 
